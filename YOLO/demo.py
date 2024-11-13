@@ -1,5 +1,3 @@
-#! /usr/bin/env python3
-
 from __future__ import division
 
 import os
@@ -157,7 +155,7 @@ def run():
     parser.add_argument("-m", "--model", type=str, default="config/yolov3.cfg", help="Path to model definition file (.cfg)")
     parser.add_argument("-w", "--weights", type=str, default="checkpoints/yolov3_best.pth", help="Path to weights or checkpoint file (.weights or .pth)")
     parser.add_argument("-i", "--images", type=str, default="data/samples", help="Path to directory with images to inference")
-    parser.add_argument("-c", "--classes", type=str, default="coco.names", help="Path to classes label file (.names)")
+    parser.add_argument("-c", "--classes", type=str, default="config/coco.names", help="Path to classes label file (.names)")
     parser.add_argument("-o", "--output", type=str, default="output", help="Path to output directory")
     parser.add_argument("-b", "--batch_size", type=int, default=1, help="Size of each image batch")
     parser.add_argument("--img_size", type=int, default=416, help="Size of each image dimension for yolo")
