@@ -14,7 +14,7 @@ from pydantic import BaseModel
 from faster_rcnn import FasterRCNN
 from predict import predict
 
-from fastapi import FastAPI, UploadFile
+from fastapi import FastAPI
 from fastapi.responses import StreamingResponse
 
 config_path = 'decay.yaml'
