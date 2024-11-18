@@ -33,4 +33,4 @@ def predict(image, model, device, conf_thres, nms_thres):
 
 image_path = "images/image_2874.jpg"
 predictions = predict(image_path, yolov3_model, device, args['conf_thres'], args['nms_thres'])
-print(predictions)
+print(predictions[0])
