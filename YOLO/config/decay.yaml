@@ -1,8 +1,7 @@
-model_params:
-  model: 'config/yolov3.cfg'
-  weights: 'checkpoints/yolov3_best.pth'
-  classes: 'config/coco.names'
-  img_size: 640
-  n_cpu: 8
-  conf_thres: 0.5
-  nms_thres: 0.4
+model: 'config/yolov3.cfg'
+weights: 'checkpoints/yolov3_best.pth'
+classes: 'config/coco.names'
+img_size: 640
+n_cpu: 8
+conf_thres: 0.2
+nms_thres: 0.1
