@@ -56,8 +56,7 @@ async def predict_api(input_data: Input):
     base64_image = input_data.img_base64
     if "," in base64_image:
         base64_image = base64_image.split(",")[1]
-    
-    print(base64_image)   
+       
     image_data = base64.b64decode(base64_image)
     nparr = np.frombuffer(image_data, np.uint8)
     image = cv2.imdecode(nparr, cv2.IMREAD_COLOR)

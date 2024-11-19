@@ -3,6 +3,7 @@ import cv2
 import os 
 import numpy as np
 import base64
+import torchvision
 from io import BytesIO
 
 def rgb_to_base64(image):
@@ -17,7 +18,7 @@ def base64_to_rgb(base64_str):
     image = cv2.imdecode(np_arr, cv2.IMREAD_COLOR)
     return image
 
-def predict(image_base64, model, device, score_threshold=0.6):
+def predict(image_base64, model, device, score_threshold=0.5):
     # image = base64_to_rgb(image_base64)
     image = image_base64
     image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
@@ -46,7 +47,8 @@ def predict(image_base64, model, device, score_threshold=0.6):
     output_image = cv2.cvtColor(image_rgb, cv2.COLOR_RGB2BGR)
     # return rgb_to_base64(output_image)
     return output_image
-    
+
+ 
 def visualize_predictions(image_path, predictions, score_threshold=0.6, output_folder = 'outputs'):
     image_name = os.path.basename(image_path)
     output_path = os.path.join(output_folder, image_name)

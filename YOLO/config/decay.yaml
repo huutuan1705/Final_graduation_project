@@ -3,5 +3,5 @@ weights: 'checkpoints/yolov3_best.pth'
 classes: 'config/coco.names'
 img_size: 640
 n_cpu: 8
-conf_thres: 0.05
-nms_thres: 0.05
+conf_thres: 0.1
+nms_thres: 0.1
