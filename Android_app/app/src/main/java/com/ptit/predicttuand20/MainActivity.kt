@@ -48,6 +48,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.google.gson.Gson
 import com.google.gson.GsonBuilder
+import com.ptit.predicttuand20.YoloRetrofitClient.gson
 import com.ptit.predicttuand20.ui.theme.PredictTuanD20Theme
 import kotlinx.coroutines.launch
 import okhttp3.MediaType.Companion.toMediaTypeOrNull
@@ -67,7 +68,7 @@ import java.io.InputStream
 
 
 object YoloRetrofitClient {
-    private const val BASE_URL = "http://100.68.49.61:8080/"
+    private const val BASE_URL = "http://100.68.49.61:8081/"
 
     private val gson: Gson = GsonBuilder()
         .setLenient()
@@ -87,11 +88,21 @@ object YoloRetrofitClient {
 }
 
 object FasterRetrofitClient {
-    private const val BASE_URL = "http://100.68.49.61:8181/"
+    private const val BASE_URL = "http://100.68.49.61:8080/"
+
+    private val gson: Gson = GsonBuilder()
+        .setLenient()
+        .create()
 
     val retrofit: Retrofit by lazy {
         Retrofit.Builder()
             .baseUrl(BASE_URL)
+            .client(
+                OkHttpClient.Builder().addInterceptor(HttpLoggingInterceptor().apply {
+                    level = HttpLoggingInterceptor.Level.BODY
+                }).build()
+            )
+            .addConverterFactory(GsonConverterFactory.create(gson))
             .build()
     }
 }
@@ -319,10 +330,19 @@ class MainActivity : ComponentActivity() {
 
                             Spacer(modifier = Modifier.height(24.dp))
 
-                            Image(
-                                bitmap = bitmap.value!!.asImageBitmap(),
-                                contentDescription = "Image"
-                            )
+                            Box(
+                                modifier = Modifier
+                                    .fillMaxWidth()
+                                    .weight(1f)
+                                    .background(Color.Gray)
+                            ){
+                                Image(
+                                    bitmap = bitmap.value!!.asImageBitmap(),
+                                    contentDescription = "Image",
+                                    modifier = Modifier.fillMaxSize()
+                                )
+                            }
+
                         }
                     }
                 }
