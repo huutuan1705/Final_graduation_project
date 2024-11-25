@@ -116,8 +116,8 @@ def run():
 
     optimizer = optim.Adam(
         params,
-        lr=0.0001,
-        weight_decay=5E-5,
+        lr=model.hyperparams['learning_rate'],
+        weight_decay=5E-4,
     )
 
     # skip epoch zero, because then the calculations for when to evaluate/checkpoint makes more intuitive sense
@@ -221,11 +221,11 @@ def run():
                 tmp_mAP = AP.mean()
         
         if tmp_mAP >= mAP:
-            checkpoint_path_best = f"checkpoints/yolov3_best.pth"
+            checkpoint_path_best = f"checkpoints/yolov3_adam_best.pth"
             torch.save(model.state_dict(), checkpoint_path_best)
         
         
-        checkpoint_path_last = f"checkpoints/yolov3_last.pth"
+        checkpoint_path_last = f"checkpoints/yolov3_adam_last.pth"
         torch.save(model.state_dict(), checkpoint_path_last)
 
 if __name__ == "__main__":
