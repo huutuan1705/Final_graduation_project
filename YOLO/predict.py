@@ -40,6 +40,7 @@ def predict(image, model, device, conf_thres, nms_thres):
         
     list_label = ["mild", "moderate", "severe"]
     for x1, y1, x2, y2, conf, cls_pred in detections[0]:
+        print(int(x1), int(y1), int(x2), int(y2), float(conf), int(cls_pred))
         x1, y1, x2, y2 = int(x1), int(y1), int(x2), int(y2)
         cv2.rectangle(image_rgb, (x1, y1), (x2, y2), (0, 255, 0), 2)
         cv2.putText(image_rgb, f'{list_label[int(cls_pred)]}: {conf:.2f}', 
