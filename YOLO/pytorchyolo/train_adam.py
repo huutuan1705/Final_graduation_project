@@ -117,7 +117,7 @@ def run():
     optimizer = optim.Adam(
         params,
         lr=model.hyperparams['learning_rate'],
-        weight_decay=5E-4,
+        weight_decay=model.hyperparams['decay'],
     )
 
     # skip epoch zero, because then the calculations for when to evaluate/checkpoint makes more intuitive sense

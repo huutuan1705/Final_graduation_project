@@ -1,0 +1,1000 @@
+100%|██████████| 1387/1387 [01:57<00:00, 11.82it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.63it/s]
+Total loss: 0.3850
+Mean Average Precision : 0.0966
+Finished epoch 0
+100%|██████████| 1387/1387 [01:55<00:00, 12.01it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.59it/s]
+Total loss: 0.3438
+Mean Average Precision : 0.0647
+Finished epoch 1
+100%|██████████| 1387/1387 [01:55<00:00, 12.00it/s]
+100%|██████████| 397/397 [01:12<00:00,  5.47it/s]
+Total loss: 0.3387
+Mean Average Precision : 0.1055
+Finished epoch 2
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.60it/s]
+Total loss: 0.3377
+Mean Average Precision : 0.1266
+Finished epoch 3
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.61it/s]
+Total loss: 0.3310
+Mean Average Precision : 0.1120
+Finished epoch 4
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.72it/s]
+Total loss: 0.3246
+Mean Average Precision : 0.1281
+Finished epoch 5
+100%|██████████| 1387/1387 [01:55<00:00, 11.97it/s]
+100%|██████████| 397/397 [01:13<00:00,  5.41it/s]
+Total loss: 0.3214
+Mean Average Precision : 0.0797
+Finished epoch 6
+100%|██████████| 1387/1387 [01:56<00:00, 11.96it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.85it/s]
+Total loss: 0.3166
+Mean Average Precision : 0.1049
+Finished epoch 7
+100%|██████████| 1387/1387 [01:55<00:00, 11.96it/s]
+100%|██████████| 397/397 [01:12<00:00,  5.46it/s]
+Total loss: 0.3170
+Mean Average Precision : 0.1380
+Finished epoch 8
+100%|██████████| 1387/1387 [01:55<00:00, 11.97it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.77it/s]
+Total loss: 0.3142
+Mean Average Precision : 0.1323
+Finished epoch 9
+100%|██████████| 1387/1387 [01:55<00:00, 11.96it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.68it/s]
+Total loss: 0.3144
+Mean Average Precision : 0.1042
+Finished epoch 10
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:12<00:00,  5.49it/s]
+Total loss: 0.3113
+Mean Average Precision : 0.1548
+Finished epoch 11
+100%|██████████| 1387/1387 [01:55<00:00, 11.96it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.56it/s]
+Total loss: 0.3092
+Mean Average Precision : 0.1374
+Finished epoch 12
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.58it/s]
+Total loss: 0.3105
+Mean Average Precision : 0.0961
+Finished epoch 13
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.60it/s]
+Total loss: 0.3073
+Mean Average Precision : 0.1083
+Finished epoch 14
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.63it/s]
+Total loss: 0.3087
+Mean Average Precision : 0.1293
+Finished epoch 15
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.58it/s]
+Total loss: 0.3050
+Mean Average Precision : 0.1407
+Finished epoch 16
+100%|██████████| 1387/1387 [01:56<00:00, 11.95it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.61it/s]
+Total loss: 0.3054
+Mean Average Precision : 0.1586
+Finished epoch 17
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.56it/s]
+Total loss: 0.3025
+Mean Average Precision : 0.1153
+Finished epoch 18
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.71it/s]
+Total loss: 0.3038
+Mean Average Precision : 0.1100
+Finished epoch 19
+100%|██████████| 1387/1387 [01:56<00:00, 11.91it/s]
+100%|██████████| 397/397 [01:12<00:00,  5.50it/s]
+Total loss: 0.3009
+Mean Average Precision : 0.1158
+Finished epoch 20
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.58it/s]
+Total loss: 0.3018
+Mean Average Precision : 0.1346
+Finished epoch 21
+100%|██████████| 1387/1387 [01:56<00:00, 11.91it/s]
+100%|██████████| 397/397 [01:12<00:00,  5.51it/s]
+Total loss: 0.2977
+Mean Average Precision : 0.1176
+Finished epoch 22
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.63it/s]
+Total loss: 0.2996
+Mean Average Precision : 0.1217
+Finished epoch 23
+100%|██████████| 1387/1387 [01:56<00:00, 11.91it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.55it/s]
+Total loss: 0.3011
+Mean Average Precision : 0.1141
+Finished epoch 24
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.63it/s]
+Total loss: 0.2992
+Mean Average Precision : 0.1166
+Finished epoch 25
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.73it/s]
+Total loss: 0.2983
+Mean Average Precision : 0.1317
+Finished epoch 26
+100%|██████████| 1387/1387 [01:56<00:00, 11.94it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.85it/s]
+Total loss: 0.2998
+Mean Average Precision : 0.1205
+Finished epoch 27
+100%|██████████| 1387/1387 [01:55<00:00, 11.97it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.74it/s]
+Total loss: 0.2953
+Mean Average Precision : 0.1286
+Finished epoch 28
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.90it/s]
+Total loss: 0.2981
+Mean Average Precision : 0.1263
+Finished epoch 29
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.67it/s]
+Total loss: 0.2939
+Mean Average Precision : 0.1367
+Finished epoch 30
+100%|██████████| 1387/1387 [01:56<00:00, 11.96it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.65it/s]
+Total loss: 0.2917
+Mean Average Precision : 0.1316
+Finished epoch 31
+100%|██████████| 1387/1387 [01:56<00:00, 11.88it/s]
+100%|██████████| 397/397 [01:05<00:00,  6.07it/s]
+Total loss: 0.2929
+Mean Average Precision : 0.1186
+Finished epoch 32
+100%|██████████| 1387/1387 [01:56<00:00, 11.94it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.81it/s]
+Total loss: 0.2934
+Mean Average Precision : 0.1147
+Finished epoch 33
+100%|██████████| 1387/1387 [01:56<00:00, 11.87it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.54it/s]
+Total loss: 0.2917
+Mean Average Precision : 0.1389
+Finished epoch 34
+100%|██████████| 1387/1387 [01:56<00:00, 11.93it/s]
+100%|██████████| 397/397 [01:06<00:00,  5.93it/s]
+Total loss: 0.2911
+Mean Average Precision : 0.1334
+Finished epoch 35
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:12<00:00,  5.48it/s]
+Total loss: 0.2913
+Mean Average Precision : 0.1526
+Finished epoch 36
+100%|██████████| 1387/1387 [01:56<00:00, 11.89it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.57it/s]
+Total loss: 0.2924
+Mean Average Precision : 0.1383
+Finished epoch 37
+100%|██████████| 1387/1387 [01:56<00:00, 11.88it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.52it/s]
+Total loss: 0.2903
+Mean Average Precision : 0.1314
+Finished epoch 38
+100%|██████████| 1387/1387 [01:56<00:00, 11.91it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.63it/s]
+Total loss: 0.2898
+Mean Average Precision : 0.1325
+Finished epoch 39
+100%|██████████| 1387/1387 [01:56<00:00, 11.94it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.56it/s]
+Total loss: 0.2874
+Mean Average Precision : 0.1199
+Finished epoch 40
+100%|██████████| 1387/1387 [01:56<00:00, 11.95it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.58it/s]
+Total loss: 0.2881
+Mean Average Precision : 0.1095
+Finished epoch 41
+100%|██████████| 1387/1387 [01:56<00:00, 11.95it/s]
+100%|██████████| 397/397 [01:06<00:00,  5.98it/s]
+Total loss: 0.2886
+Mean Average Precision : 0.1092
+Finished epoch 42
+100%|██████████| 1387/1387 [01:56<00:00, 11.95it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.67it/s]
+Total loss: 0.2870
+Mean Average Precision : 0.1050
+Finished epoch 43
+100%|██████████| 1387/1387 [01:56<00:00, 11.94it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.72it/s]
+Total loss: 0.2887
+Mean Average Precision : 0.1333
+Finished epoch 44
+100%|██████████| 1387/1387 [01:56<00:00, 11.93it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.66it/s]
+Total loss: 0.2878
+Mean Average Precision : 0.1196
+Finished epoch 45
+100%|██████████| 1387/1387 [01:56<00:00, 11.95it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.54it/s]
+Total loss: 0.2894
+Mean Average Precision : 0.0947
+Finished epoch 46
+100%|██████████| 1387/1387 [01:56<00:00, 11.94it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.85it/s]
+Total loss: 0.2876
+Mean Average Precision : 0.1369
+Finished epoch 47
+100%|██████████| 1387/1387 [01:56<00:00, 11.93it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.75it/s]
+Total loss: 0.2876
+Mean Average Precision : 0.1182
+Finished epoch 48
+100%|██████████| 1387/1387 [01:56<00:00, 11.92it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.63it/s]
+Total loss: 0.2905
+Mean Average Precision : 0.1434
+Finished epoch 49
+100%|██████████| 1387/1387 [01:56<00:00, 11.92it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.80it/s]
+Total loss: 0.2885
+Mean Average Precision : 0.1590
+Finished epoch 50
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.69it/s]
+Total loss: 0.2885
+Mean Average Precision : 0.1572
+Finished epoch 51
+100%|██████████| 1387/1387 [01:56<00:00, 11.91it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.76it/s]
+Total loss: 0.2876
+Mean Average Precision : 0.1168
+Finished epoch 52
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.74it/s]
+Total loss: 0.2867
+Mean Average Precision : 0.1122
+Finished epoch 53
+100%|██████████| 1387/1387 [01:56<00:00, 11.88it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.71it/s]
+Total loss: 0.2838
+Mean Average Precision : 0.1518
+Finished epoch 54
+100%|██████████| 1387/1387 [01:56<00:00, 11.88it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.67it/s]
+Total loss: 0.2831
+Mean Average Precision : 0.1057
+Finished epoch 55
+100%|██████████| 1387/1387 [01:56<00:00, 11.91it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.78it/s]
+Total loss: 0.2858
+Mean Average Precision : 0.1354
+Finished epoch 56
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.57it/s]
+Total loss: 0.2876
+Mean Average Precision : 0.1414
+Finished epoch 57
+100%|██████████| 1387/1387 [01:56<00:00, 11.89it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.56it/s]
+Total loss: 0.2865
+Mean Average Precision : 0.0765
+Finished epoch 58
+100%|██████████| 1387/1387 [01:56<00:00, 11.91it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.70it/s]
+Total loss: 0.2817
+Mean Average Precision : 0.1262
+Finished epoch 59
+100%|██████████| 1387/1387 [01:56<00:00, 11.92it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.62it/s]
+Total loss: 0.2853
+Mean Average Precision : 0.1316
+Finished epoch 60
+100%|██████████| 1387/1387 [01:56<00:00, 11.91it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.64it/s]
+Total loss: 0.2885
+Mean Average Precision : 0.1335
+Finished epoch 61
+100%|██████████| 1387/1387 [01:56<00:00, 11.88it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.56it/s]
+Total loss: 0.2848
+Mean Average Precision : 0.1501
+Finished epoch 62
+100%|██████████| 1387/1387 [01:56<00:00, 11.86it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.76it/s]
+Total loss: 0.2820
+Mean Average Precision : 0.1126
+Finished epoch 63
+100%|██████████| 1387/1387 [01:56<00:00, 11.88it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.76it/s]
+Total loss: 0.2842
+Mean Average Precision : 0.1480
+Finished epoch 64
+100%|██████████| 1387/1387 [01:56<00:00, 11.89it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.71it/s]
+Total loss: 0.2826
+Mean Average Precision : 0.1182
+Finished epoch 65
+100%|██████████| 1387/1387 [01:56<00:00, 11.88it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.68it/s]
+Total loss: 0.2851
+Mean Average Precision : 0.1488
+Finished epoch 66
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.73it/s]
+Total loss: 0.2841
+Mean Average Precision : 0.1147
+Finished epoch 67
+100%|██████████| 1387/1387 [01:56<00:00, 11.89it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.70it/s]
+Total loss: 0.2829
+Mean Average Precision : 0.1470
+Finished epoch 68
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.59it/s]
+Total loss: 0.2793
+Mean Average Precision : 0.1006
+Finished epoch 69
+100%|██████████| 1387/1387 [01:56<00:00, 11.88it/s]
+100%|██████████| 397/397 [01:06<00:00,  6.01it/s]
+Total loss: 0.2807
+Mean Average Precision : 0.0823
+Finished epoch 70
+100%|██████████| 1387/1387 [01:56<00:00, 11.89it/s]
+100%|██████████| 397/397 [01:05<00:00,  6.03it/s]
+Total loss: 0.2798
+Mean Average Precision : 0.0921
+Finished epoch 71
+100%|██████████| 1387/1387 [01:56<00:00, 11.89it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.76it/s]
+Total loss: 0.2797
+Mean Average Precision : 0.0990
+Finished epoch 72
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.63it/s]
+Total loss: 0.2786
+Mean Average Precision : 0.1483
+Finished epoch 73
+100%|██████████| 1387/1387 [01:56<00:00, 11.90it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.62it/s]
+Total loss: 0.2796
+Mean Average Precision : 0.1266
+Finished epoch 74
+100%|██████████| 1387/1387 [01:56<00:00, 11.91it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.62it/s]
+Total loss: 0.2797
+Mean Average Precision : 0.1592
+Finished epoch 75
+100%|██████████| 1387/1387 [01:55<00:00, 12.01it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.77it/s]
+Total loss: 0.2808
+Mean Average Precision : 0.1056
+Finished epoch 76
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.71it/s]
+Total loss: 0.2796
+Mean Average Precision : 0.1204
+Finished epoch 77
+100%|██████████| 1387/1387 [01:55<00:00, 12.01it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.66it/s]
+Total loss: 0.2824
+Mean Average Precision : 0.1221
+Finished epoch 78
+100%|██████████| 1387/1387 [01:56<00:00, 11.92it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.71it/s]
+Total loss: 0.2809
+Mean Average Precision : 0.1361
+Finished epoch 79
+100%|██████████| 1387/1387 [01:56<00:00, 11.93it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.64it/s]
+Total loss: 0.2802
+Mean Average Precision : 0.1278
+Finished epoch 80
+100%|██████████| 1387/1387 [01:56<00:00, 11.93it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.65it/s]
+Total loss: 0.2802
+Mean Average Precision : 0.1232
+Finished epoch 81
+100%|██████████| 1387/1387 [01:56<00:00, 11.92it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.55it/s]
+Total loss: 0.2783
+Mean Average Precision : 0.1350
+Finished epoch 82
+100%|██████████| 1387/1387 [01:56<00:00, 11.93it/s]
+100%|██████████| 397/397 [01:12<00:00,  5.51it/s]
+Total loss: 0.2776
+Mean Average Precision : 0.1477
+Finished epoch 83
+100%|██████████| 1387/1387 [01:56<00:00, 11.93it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.65it/s]
+Total loss: 0.2774
+Mean Average Precision : 0.1598
+Finished epoch 84
+100%|██████████| 1387/1387 [01:56<00:00, 11.94it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.73it/s]
+Total loss: 0.2809
+Mean Average Precision : 0.1005
+Finished epoch 85
+100%|██████████| 1387/1387 [01:56<00:00, 11.93it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.60it/s]
+Total loss: 0.2813
+Mean Average Precision : 0.1532
+Finished epoch 86
+100%|██████████| 1387/1387 [01:56<00:00, 11.94it/s]
+100%|██████████| 397/397 [01:12<00:00,  5.49it/s]
+Total loss: 0.2800
+Mean Average Precision : 0.1120
+Finished epoch 87
+100%|██████████| 1387/1387 [01:56<00:00, 11.93it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.64it/s]
+Total loss: 0.2769
+Mean Average Precision : 0.1235
+Finished epoch 88
+100%|██████████| 1387/1387 [01:56<00:00, 11.93it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.55it/s]
+Total loss: 0.2794
+Mean Average Precision : 0.1004
+Finished epoch 89
+100%|██████████| 1387/1387 [01:56<00:00, 11.94it/s]
+100%|██████████| 397/397 [01:12<00:00,  5.51it/s]
+Total loss: 0.2793
+Mean Average Precision : 0.0832
+Finished epoch 90
+100%|██████████| 1387/1387 [01:56<00:00, 11.93it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.65it/s]
+Total loss: 0.2766
+Mean Average Precision : 0.0913
+Finished epoch 91
+100%|██████████| 1387/1387 [01:56<00:00, 11.94it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.68it/s]
+Total loss: 0.2799
+Mean Average Precision : 0.1383
+Finished epoch 92
+100%|██████████| 1387/1387 [01:56<00:00, 11.92it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.76it/s]
+Total loss: 0.2772
+Mean Average Precision : 0.1118
+Finished epoch 93
+100%|██████████| 1387/1387 [01:56<00:00, 11.94it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.74it/s]
+Total loss: 0.2775
+Mean Average Precision : 0.1102
+Finished epoch 94
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.55it/s]
+Total loss: 0.2785
+Mean Average Precision : 0.1495
+Finished epoch 95
+100%|██████████| 1387/1387 [01:55<00:00, 12.00it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.68it/s]
+Total loss: 0.2815
+Mean Average Precision : 0.1020
+Finished epoch 96
+100%|██████████| 1387/1387 [01:55<00:00, 12.00it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.61it/s]
+Total loss: 0.2771
+Mean Average Precision : 0.0824
+Finished epoch 97
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.65it/s]
+Total loss: 0.2774
+Mean Average Precision : 0.1005
+Finished epoch 98
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.87it/s]
+Total loss: 0.2803
+Mean Average Precision : 0.0862
+Finished epoch 99
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.87it/s]
+Total loss: 0.2811
+Mean Average Precision : 0.1225
+Finished epoch 100
+100%|██████████| 1387/1387 [01:55<00:00, 12.06it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.69it/s]
+Total loss: 0.2802
+Mean Average Precision : 0.1413
+Finished epoch 101
+100%|██████████| 1387/1387 [01:55<00:00, 12.06it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.78it/s]
+Total loss: 0.2796
+Mean Average Precision : 0.1256
+Finished epoch 102
+100%|██████████| 1387/1387 [01:55<00:00, 12.02it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.67it/s]
+Total loss: 0.2784
+Mean Average Precision : 0.1130
+Finished epoch 103
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:12<00:00,  5.50it/s]
+Total loss: 0.2822
+Mean Average Precision : 0.1196
+Finished epoch 104
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.87it/s]
+Total loss: 0.2790
+Mean Average Precision : 0.0923
+Finished epoch 105
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.76it/s]
+Total loss: 0.2798
+Mean Average Precision : 0.1246
+Finished epoch 106
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.68it/s]
+Total loss: 0.2800
+Mean Average Precision : 0.0889
+Finished epoch 107
+100%|██████████| 1387/1387 [01:55<00:00, 11.97it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.57it/s]
+Total loss: 0.2821
+Mean Average Precision : 0.1054
+Finished epoch 108
+100%|██████████| 1387/1387 [01:55<00:00, 12.02it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.62it/s]
+Total loss: 0.2815
+Mean Average Precision : 0.1119
+Finished epoch 109
+100%|██████████| 1387/1387 [01:54<00:00, 12.06it/s]
+100%|██████████| 397/397 [01:05<00:00,  6.05it/s]
+Total loss: 0.2789
+Mean Average Precision : 0.1145
+Finished epoch 110
+100%|██████████| 1387/1387 [01:55<00:00, 12.02it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.78it/s]
+Total loss: 0.2804
+Mean Average Precision : 0.1369
+Finished epoch 111
+100%|██████████| 1387/1387 [01:54<00:00, 12.07it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.58it/s]
+Total loss: 0.2778
+Mean Average Precision : 0.1180
+Finished epoch 112
+100%|██████████| 1387/1387 [01:55<00:00, 12.04it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.74it/s]
+Total loss: 0.2790
+Mean Average Precision : 0.1412
+Finished epoch 113
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.65it/s]
+Total loss: 0.2780
+Mean Average Precision : 0.1147
+Finished epoch 114
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.89it/s]
+Total loss: 0.2795
+Mean Average Precision : 0.1509
+Finished epoch 115
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:04<00:00,  6.11it/s]
+Total loss: 0.2761
+Mean Average Precision : 0.1336
+Finished epoch 116
+100%|██████████| 1387/1387 [01:55<00:00, 11.96it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.72it/s]
+Total loss: 0.2748
+Mean Average Precision : 0.1249
+Finished epoch 117
+100%|██████████| 1387/1387 [01:56<00:00, 11.91it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.57it/s]
+Total loss: 0.2750
+Mean Average Precision : 0.0932
+Finished epoch 118
+100%|██████████| 1387/1387 [01:55<00:00, 11.97it/s]
+100%|██████████| 397/397 [01:12<00:00,  5.47it/s]
+Total loss: 0.2786
+Mean Average Precision : 0.1068
+Finished epoch 119
+100%|██████████| 1387/1387 [01:55<00:00, 11.97it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.59it/s]
+Total loss: 0.2787
+Mean Average Precision : 0.0893
+Finished epoch 120
+100%|██████████| 1387/1387 [01:55<00:00, 12.05it/s]
+100%|██████████| 397/397 [01:06<00:00,  6.00it/s]
+Total loss: 0.2780
+Mean Average Precision : 0.0869
+Finished epoch 121
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.92it/s]
+Total loss: 0.2797
+Mean Average Precision : 0.0889
+Finished epoch 122
+100%|██████████| 1387/1387 [01:55<00:00, 12.06it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.72it/s]
+Total loss: 0.2795
+Mean Average Precision : 0.1318
+Finished epoch 123
+100%|██████████| 1387/1387 [01:54<00:00, 12.06it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.66it/s]
+Total loss: 0.2750
+Mean Average Precision : 0.0977
+Finished epoch 124
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.69it/s]
+Total loss: 0.2802
+Mean Average Precision : 0.1040
+Finished epoch 125
+100%|██████████| 1387/1387 [01:55<00:00, 12.00it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.73it/s]
+Total loss: 0.2785
+Mean Average Precision : 0.1074
+Finished epoch 126
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.81it/s]
+Total loss: 0.2787
+Mean Average Precision : 0.1407
+Finished epoch 127
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.78it/s]
+Total loss: 0.2772
+Mean Average Precision : 0.1003
+Finished epoch 128
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.82it/s]
+Total loss: 0.2778
+Mean Average Precision : 0.1064
+Finished epoch 129
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.76it/s]
+Total loss: 0.2770
+Mean Average Precision : 0.1376
+Finished epoch 130
+100%|██████████| 1387/1387 [01:55<00:00, 12.04it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.74it/s]
+Total loss: 0.2765
+Mean Average Precision : 0.1431
+Finished epoch 131
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.61it/s]
+Total loss: 0.2777
+Mean Average Precision : 0.0875
+Finished epoch 132
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.57it/s]
+Total loss: 0.2795
+Mean Average Precision : 0.1206
+Finished epoch 133
+100%|██████████| 1387/1387 [01:55<00:00, 12.00it/s]
+100%|██████████| 397/397 [01:05<00:00,  6.10it/s]
+Total loss: 0.2799
+Mean Average Precision : 0.1317
+Finished epoch 134
+100%|██████████| 1387/1387 [01:55<00:00, 12.00it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.82it/s]
+Total loss: 0.2826
+Mean Average Precision : 0.1341
+Finished epoch 135
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.75it/s]
+Total loss: 0.2814
+Mean Average Precision : 0.0995
+Finished epoch 136
+100%|██████████| 1387/1387 [01:54<00:00, 12.08it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.73it/s]
+Total loss: 0.2807
+Mean Average Precision : 0.1123
+Finished epoch 137
+100%|██████████| 1387/1387 [01:54<00:00, 12.09it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.63it/s]
+Total loss: 0.2776
+Mean Average Precision : 0.0888
+Finished epoch 138
+100%|██████████| 1387/1387 [01:54<00:00, 12.08it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.70it/s]
+Total loss: 0.2796
+Mean Average Precision : 0.1397
+Finished epoch 139
+100%|██████████| 1387/1387 [01:55<00:00, 12.04it/s]
+100%|██████████| 397/397 [01:12<00:00,  5.47it/s]
+Total loss: 0.2793
+Mean Average Precision : 0.1627
+Finished epoch 140
+100%|██████████| 1387/1387 [01:54<00:00, 12.06it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.60it/s]
+Total loss: 0.2777
+Mean Average Precision : 0.1261
+Finished epoch 141
+100%|██████████| 1387/1387 [01:55<00:00, 12.04it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.73it/s]
+Total loss: 0.2791
+Mean Average Precision : 0.1123
+Finished epoch 142
+100%|██████████| 1387/1387 [01:55<00:00, 12.04it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.85it/s]
+Total loss: 0.2807
+Mean Average Precision : 0.1116
+Finished epoch 143
+100%|██████████| 1387/1387 [01:55<00:00, 12.04it/s]
+100%|██████████| 397/397 [01:12<00:00,  5.46it/s]
+Total loss: 0.2771
+Mean Average Precision : 0.1167
+Finished epoch 144
+100%|██████████| 1387/1387 [01:54<00:00, 12.08it/s]
+100%|██████████| 397/397 [01:04<00:00,  6.14it/s]
+Total loss: 0.2774
+Mean Average Precision : 0.1040
+Finished epoch 145
+100%|██████████| 1387/1387 [01:54<00:00, 12.06it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.58it/s]
+Total loss: 0.2784
+Mean Average Precision : 0.1276
+Finished epoch 146
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.65it/s]
+Total loss: 0.2781
+Mean Average Precision : 0.1635
+Finished epoch 147
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.67it/s]
+Total loss: 0.2787
+Mean Average Precision : 0.1076
+Finished epoch 148
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.61it/s]
+Total loss: 0.2757
+Mean Average Precision : 0.1444
+Finished epoch 149
+100%|██████████| 1387/1387 [01:55<00:00, 12.02it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.68it/s]
+Total loss: 0.2773
+Mean Average Precision : 0.1528
+Finished epoch 150
+100%|██████████| 1387/1387 [01:55<00:00, 12.06it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.82it/s]
+Total loss: 0.2770
+Mean Average Precision : 0.0938
+Finished epoch 151
+100%|██████████| 1387/1387 [01:55<00:00, 12.04it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.74it/s]
+Total loss: 0.2791
+Mean Average Precision : 0.1148
+Finished epoch 152
+100%|██████████| 1387/1387 [01:54<00:00, 12.09it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.76it/s]
+Total loss: 0.2765
+Mean Average Precision : 0.1189
+Finished epoch 153
+100%|██████████| 1387/1387 [01:54<00:00, 12.07it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.67it/s]
+Total loss: 0.2786
+Mean Average Precision : 0.1120
+Finished epoch 154
+100%|██████████| 1387/1387 [01:55<00:00, 12.00it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.82it/s]
+Total loss: 0.2784
+Mean Average Precision : 0.1548
+Finished epoch 155
+100%|██████████| 1387/1387 [01:55<00:00, 12.01it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.75it/s]
+Total loss: 0.2790
+Mean Average Precision : 0.1113
+Finished epoch 156
+100%|██████████| 1387/1387 [01:55<00:00, 12.05it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.72it/s]
+Total loss: 0.2792
+Mean Average Precision : 0.1373
+Finished epoch 157
+100%|██████████| 1387/1387 [01:54<00:00, 12.07it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.84it/s]
+Total loss: 0.2771
+Mean Average Precision : 0.1178
+Finished epoch 158
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.65it/s]
+Total loss: 0.2762
+Mean Average Precision : 0.0922
+Finished epoch 159
+100%|██████████| 1387/1387 [01:55<00:00, 12.02it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.84it/s]
+Total loss: 0.2762
+Mean Average Precision : 0.1114
+Finished epoch 160
+100%|██████████| 1387/1387 [01:54<00:00, 12.07it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.66it/s]
+Total loss: 0.2793
+Mean Average Precision : 0.0867
+Finished epoch 161
+100%|██████████| 1387/1387 [01:55<00:00, 12.00it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.64it/s]
+Total loss: 0.2798
+Mean Average Precision : 0.1266
+Finished epoch 162
+100%|██████████| 1387/1387 [01:55<00:00, 12.04it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.86it/s]
+Total loss: 0.2785
+Mean Average Precision : 0.1024
+Finished epoch 163
+100%|██████████| 1387/1387 [01:55<00:00, 12.02it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.68it/s]
+Total loss: 0.2754
+Mean Average Precision : 0.1498
+Finished epoch 164
+100%|██████████| 1387/1387 [01:55<00:00, 12.02it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.69it/s]
+Total loss: 0.2774
+Mean Average Precision : 0.1300
+Finished epoch 165
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.60it/s]
+Total loss: 0.2746
+Mean Average Precision : 0.0837
+Finished epoch 166
+100%|██████████| 1387/1387 [01:55<00:00, 12.02it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.71it/s]
+Total loss: 0.2768
+Mean Average Precision : 0.1179
+Finished epoch 167
+100%|██████████| 1387/1387 [01:55<00:00, 12.02it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.73it/s]
+Total loss: 0.2760
+Mean Average Precision : 0.1381
+Finished epoch 168
+100%|██████████| 1387/1387 [01:55<00:00, 12.02it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.68it/s]
+Total loss: 0.2759
+Mean Average Precision : 0.0878
+Finished epoch 169
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.90it/s]
+Total loss: 0.2773
+Mean Average Precision : 0.1145
+Finished epoch 170
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.55it/s]
+Total loss: 0.2756
+Mean Average Precision : 0.0855
+Finished epoch 171
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.61it/s]
+Total loss: 0.2773
+Mean Average Precision : 0.1493
+Finished epoch 172
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:06<00:00,  5.95it/s]
+Total loss: 0.2773
+Mean Average Precision : 0.0669
+Finished epoch 173
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.68it/s]
+Total loss: 0.2774
+Mean Average Precision : 0.0971
+Finished epoch 174
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.68it/s]
+Total loss: 0.2775
+Mean Average Precision : 0.1210
+Finished epoch 175
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.76it/s]
+Total loss: 0.2769
+Mean Average Precision : 0.1416
+Finished epoch 176
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.71it/s]
+Total loss: 0.2767
+Mean Average Precision : 0.1243
+Finished epoch 177
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.77it/s]
+Total loss: 0.2793
+Mean Average Precision : 0.1431
+Finished epoch 178
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.74it/s]
+Total loss: 0.2775
+Mean Average Precision : 0.1050
+Finished epoch 179
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.65it/s]
+Total loss: 0.2766
+Mean Average Precision : 0.0611
+Finished epoch 180
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.81it/s]
+Total loss: 0.2770
+Mean Average Precision : 0.1195
+Finished epoch 181
+100%|██████████| 1387/1387 [01:55<00:00, 12.02it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.63it/s]
+Total loss: 0.2749
+Mean Average Precision : 0.1519
+Finished epoch 182
+100%|██████████| 1387/1387 [01:55<00:00, 11.96it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.69it/s]
+Total loss: 0.2802
+Mean Average Precision : 0.1424
+Finished epoch 183
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.73it/s]
+Total loss: 0.2810
+Mean Average Precision : 0.1009
+Finished epoch 184
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.78it/s]
+Total loss: 0.2770
+Mean Average Precision : 0.1383
+Finished epoch 185
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.57it/s]
+Total loss: 0.2779
+Mean Average Precision : 0.1111
+Finished epoch 186
+100%|██████████| 1387/1387 [01:55<00:00, 11.98it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.89it/s]
+Total loss: 0.2779
+Mean Average Precision : 0.1003
+Finished epoch 187
+100%|██████████| 1387/1387 [01:55<00:00, 12.00it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.79it/s]
+Total loss: 0.2752
+Mean Average Precision : 0.1341
+Finished epoch 188
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.84it/s]
+Total loss: 0.2781
+Mean Average Precision : 0.0979
+Finished epoch 189
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.82it/s]
+Total loss: 0.2779
+Mean Average Precision : 0.1299
+Finished epoch 190
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.91it/s]
+Total loss: 0.2772
+Mean Average Precision : 0.1270
+Finished epoch 191
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:07<00:00,  5.89it/s]
+Total loss: 0.2762
+Mean Average Precision : 0.1188
+Finished epoch 192
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.72it/s]
+Total loss: 0.2745
+Mean Average Precision : 0.1042
+Finished epoch 193
+100%|██████████| 1387/1387 [01:55<00:00, 12.03it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.82it/s]
+Total loss: 0.2750
+Mean Average Precision : 0.1084
+Finished epoch 194
+100%|██████████| 1387/1387 [01:55<00:00, 12.00it/s]
+100%|██████████| 397/397 [01:10<00:00,  5.62it/s]
+Total loss: 0.2784
+Mean Average Precision : 0.1222
+Finished epoch 195
+100%|██████████| 1387/1387 [01:55<00:00, 12.00it/s]
+100%|██████████| 397/397 [01:08<00:00,  5.81it/s]
+Total loss: 0.2805
+Mean Average Precision : 0.0790
+Finished epoch 196
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.68it/s]
+Total loss: 0.2758
+Mean Average Precision : 0.0935
+Finished epoch 197
+100%|██████████| 1387/1387 [01:55<00:00, 11.99it/s]
+100%|██████████| 397/397 [01:09<00:00,  5.69it/s]
+Total loss: 0.2739
+Mean Average Precision : 0.1157
+Finished epoch 198
+100%|██████████| 1387/1387 [01:55<00:00, 11.97it/s]
+100%|██████████| 397/397 [01:11<00:00,  5.55it/s]
+Total loss: 0.2757
+Mean Average Precision : 0.0802
+Finished epoch 199
