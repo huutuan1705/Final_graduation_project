@@ -1,0 +1,1812 @@
+2024-11-26 02:09:20.381202: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-11-26 02:09:20.397564: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:485] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
+2024-11-26 02:09:20.416789: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:8454] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
+2024-11-26 02:09:20.423223: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1452] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
+2024-11-26 02:09:20.438449: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2024-11-26 02:09:21.578955: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
+Environment information:
+System: Linux 6.1.85+
+Not using the poetry package
+No git or repo found
+Command line arguments: Namespace(model='config/yolov3.cfg', data='config/coco.data', epochs=200, verbose=False, n_cpu=8, pretrained_weights='darknet53.conv.74', checkpoint_interval=1, evaluation_interval=1, multiscale_training=False, iou_thres=0.5, conf_thres=0.1, nms_thres=0.5, logdir='logs', seed=-1)
+
+---- Training Model ----
+Training Epoch 1: 100% 44/44 [01:18<00:00,  1.78s/it]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [01:25<00:00,  6.56s/it]
+Computing AP: 100% 3/3 [00:00<00:00, 17.47it/s]
+---- Loss 1.00000 ----
+---- mAP 0.00152 ----
+
+---- Training Model ----
+Training Epoch 2: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [01:11<00:00,  5.49s/it]
+Computing AP: 100% 3/3 [00:00<00:00, 17.47it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00006 ----
+
+---- Training Model ----
+Training Epoch 3: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [01:10<00:00,  5.44s/it]
+Computing AP: 100% 3/3 [00:00<00:00, 17.54it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00002 ----
+
+---- Training Model ----
+Training Epoch 4: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [01:10<00:00,  5.42s/it]
+Computing AP: 100% 3/3 [00:00<00:00, 17.46it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00002 ----
+
+---- Training Model ----
+Training Epoch 5: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:54<00:00,  4.18s/it]
+Computing AP: 100% 3/3 [00:00<00:00, 17.50it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00000 ----
+
+---- Training Model ----
+Training Epoch 6: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:30<00:00,  2.34s/it]
+Computing AP: 100% 3/3 [00:00<00:00, 17.65it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00001 ----
+
+---- Training Model ----
+Training Epoch 7: 100% 44/44 [00:23<00:00,  1.83it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:25<00:00,  2.00s/it]
+Computing AP: 100% 3/3 [00:00<00:00, 17.59it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00000 ----
+
+---- Training Model ----
+Training Epoch 8: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:25<00:00,  1.93s/it]
+Computing AP: 100% 3/3 [00:00<00:00, 17.33it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00000 ----
+
+---- Training Model ----
+Training Epoch 9: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:15<00:00,  1.22s/it]
+Computing AP: 100% 3/3 [00:00<00:00, 43.21it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00003 ----
+
+---- Training Model ----
+Training Epoch 10: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:10<00:00,  1.25it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 221.76it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00001 ----
+
+---- Training Model ----
+Training Epoch 11: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 974.06it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00037 ----
+
+---- Training Model ----
+Training Epoch 12: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.48it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 3170.30it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00073 ----
+
+---- Training Model ----
+Training Epoch 13: 100% 44/44 [00:22<00:00,  1.93it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.44it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 4143.20it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00147 ----
+
+---- Training Model ----
+Training Epoch 14: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.43it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 5393.45it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00147 ----
+
+---- Training Model ----
+Training Epoch 15: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.46it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 5186.69it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00677 ----
+
+---- Training Model ----
+Training Epoch 16: 100% 44/44 [00:23<00:00,  1.91it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 4340.43it/s]
+---- Loss 0.00000 ----
+---- mAP 0.02396 ----
+
+---- Training Model ----
+Training Epoch 17: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.49it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 5748.25it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00670 ----
+
+---- Training Model ----
+Training Epoch 18: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.43it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 5264.82it/s]
+---- Loss 0.00000 ----
+---- mAP 0.00390 ----
+
+---- Training Model ----
+Training Epoch 19: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.47it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 5572.59it/s]
+---- Loss 0.00000 ----
+---- mAP 0.01125 ----
+
+---- Training Model ----
+Training Epoch 20: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 5256.02it/s]
+---- Loss 0.00000 ----
+---- mAP 0.01648 ----
+
+---- Training Model ----
+Training Epoch 21: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.44it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 4026.53it/s]
+---- Loss 0.00000 ----
+---- mAP 0.01325 ----
+
+---- Training Model ----
+Training Epoch 22: 100% 44/44 [00:22<00:00,  1.94it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.44it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 3904.10it/s]
+---- Loss 0.00000 ----
+---- mAP 0.05499 ----
+
+---- Training Model ----
+Training Epoch 23: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 5086.06it/s]
+---- Loss 0.00000 ----
+---- mAP 0.02844 ----
+
+---- Training Model ----
+Training Epoch 24: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.45it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 4871.43it/s]
+---- Loss 0.00000 ----
+---- mAP 0.01998 ----
+
+---- Training Model ----
+Training Epoch 25: 100% 44/44 [00:22<00:00,  1.94it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.49it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 3809.54it/s]
+---- Loss 0.00000 ----
+---- mAP 0.03386 ----
+
+---- Training Model ----
+Training Epoch 26: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.44it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 3729.38it/s]
+---- Loss 0.00000 ----
+---- mAP 0.05482 ----
+
+---- Training Model ----
+Training Epoch 27: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.45it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 3124.64it/s]
+---- Loss 0.00000 ----
+---- mAP 0.07575 ----
+
+---- Training Model ----
+Training Epoch 28: 100% 44/44 [00:22<00:00,  1.94it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 3407.23it/s]
+---- Loss 0.00000 ----
+---- mAP 0.04613 ----
+
+---- Training Model ----
+Training Epoch 29: 100% 44/44 [00:22<00:00,  1.95it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 3467.32it/s]
+---- Loss 0.00000 ----
+---- mAP 0.05913 ----
+
+---- Training Model ----
+Training Epoch 30: 100% 44/44 [00:23<00:00,  1.91it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.46it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 2700.20it/s]
+---- Loss 0.00000 ----
+---- mAP 0.11914 ----
+
+---- Training Model ----
+Training Epoch 31: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.48it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 3580.79it/s]
+---- Loss 0.00000 ----
+---- mAP 0.05961 ----
+
+---- Training Model ----
+Training Epoch 32: 100% 44/44 [00:22<00:00,  1.93it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.47it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 3327.93it/s]
+---- Loss 0.00000 ----
+---- mAP 0.06978 ----
+
+---- Training Model ----
+Training Epoch 33: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 2258.24it/s]
+---- Loss 0.00000 ----
+---- mAP 0.11414 ----
+
+---- Training Model ----
+Training Epoch 34: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.47it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 2820.65it/s]
+---- Loss 0.00000 ----
+---- mAP 0.09589 ----
+
+---- Training Model ----
+Training Epoch 35: 100% 44/44 [00:23<00:00,  1.91it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.44it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 3106.12it/s]
+---- Loss 0.00000 ----
+---- mAP 0.08581 ----
+
+---- Training Model ----
+Training Epoch 36: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 2446.13it/s]
+---- Loss 0.00000 ----
+---- mAP 0.13026 ----
+
+---- Training Model ----
+Training Epoch 37: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 2554.91it/s]
+---- Loss 0.00000 ----
+---- mAP 0.11527 ----
+
+---- Training Model ----
+Training Epoch 38: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.45it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 2230.62it/s]
+---- Loss 0.00000 ----
+---- mAP 0.12685 ----
+
+---- Training Model ----
+Training Epoch 39: 100% 44/44 [00:22<00:00,  1.95it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.47it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 2759.41it/s]
+---- Loss 0.00000 ----
+---- mAP 0.11760 ----
+
+---- Training Model ----
+Training Epoch 40: 100% 44/44 [00:22<00:00,  1.93it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.43it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 2831.44it/s]
+---- Loss 0.00000 ----
+---- mAP 0.12150 ----
+
+---- Training Model ----
+Training Epoch 41: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.46it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1963.93it/s]
+---- Loss 0.00000 ----
+---- mAP 0.16173 ----
+
+---- Training Model ----
+Training Epoch 42: 100% 44/44 [00:24<00:00,  1.82it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.48it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 2696.72it/s]
+---- Loss 0.00000 ----
+---- mAP 0.11510 ----
+
+---- Training Model ----
+Training Epoch 43: 100% 44/44 [00:22<00:00,  1.93it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1786.33it/s]
+---- Loss 0.00000 ----
+---- mAP 0.18369 ----
+
+---- Training Model ----
+Training Epoch 44: 100% 44/44 [00:24<00:00,  1.83it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1846.90it/s]
+---- Loss 0.00000 ----
+---- mAP 0.19537 ----
+
+---- Training Model ----
+Training Epoch 45: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.47it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 2117.62it/s]
+---- Loss 0.00000 ----
+---- mAP 0.15173 ----
+
+---- Training Model ----
+Training Epoch 46: 100% 44/44 [00:22<00:00,  1.93it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.44it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1118.68it/s]
+---- Loss 0.00000 ----
+---- mAP 0.18982 ----
+
+---- Training Model ----
+Training Epoch 47: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.43it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1558.06it/s]
+---- Loss 0.00000 ----
+---- mAP 0.19343 ----
+
+---- Training Model ----
+Training Epoch 48: 100% 44/44 [00:23<00:00,  1.91it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1276.55it/s]
+---- Loss 0.00000 ----
+---- mAP 0.17911 ----
+
+---- Training Model ----
+Training Epoch 49: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 966.28it/s]
+---- Loss 0.00000 ----
+---- mAP 0.21264 ----
+
+---- Training Model ----
+Training Epoch 50: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.46it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 2079.48it/s]
+---- Loss 0.00000 ----
+---- mAP 0.19862 ----
+
+---- Training Model ----
+Training Epoch 51: 100% 44/44 [00:22<00:00,  1.93it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1852.88it/s]
+---- Loss 0.00000 ----
+---- mAP 0.21331 ----
+
+---- Training Model ----
+Training Epoch 52: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1843.65it/s]
+---- Loss 0.00000 ----
+---- mAP 0.19068 ----
+
+---- Training Model ----
+Training Epoch 53: 100% 44/44 [00:23<00:00,  1.91it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:08<00:00,  1.45it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1734.14it/s]
+---- Loss 0.00000 ----
+---- mAP 0.18438 ----
+
+---- Training Model ----
+Training Epoch 54: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.43it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1693.76it/s]
+---- Loss 0.00000 ----
+---- mAP 0.22824 ----
+
+---- Training Model ----
+Training Epoch 55: 100% 44/44 [00:22<00:00,  1.93it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1556.91it/s]
+---- Loss 0.00000 ----
+---- mAP 0.21350 ----
+
+---- Training Model ----
+Training Epoch 56: 100% 44/44 [00:24<00:00,  1.83it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1766.52it/s]
+---- Loss 0.00000 ----
+---- mAP 0.21388 ----
+
+---- Training Model ----
+Training Epoch 57: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1661.77it/s]
+---- Loss 0.00000 ----
+---- mAP 0.23689 ----
+
+---- Training Model ----
+Training Epoch 58: 100% 44/44 [00:22<00:00,  1.93it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1642.03it/s]
+---- Loss 0.00000 ----
+---- mAP 0.22676 ----
+
+---- Training Model ----
+Training Epoch 59: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.44it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1591.97it/s]
+---- Loss 0.00000 ----
+---- mAP 0.23752 ----
+
+---- Training Model ----
+Training Epoch 60: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.43it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1801.42it/s]
+---- Loss 0.00000 ----
+---- mAP 0.20605 ----
+
+---- Training Model ----
+Training Epoch 61: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1414.29it/s]
+---- Loss 0.00000 ----
+---- mAP 0.24811 ----
+
+---- Training Model ----
+Training Epoch 62: 100% 44/44 [00:22<00:00,  1.94it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1475.14it/s]
+---- Loss 0.00000 ----
+---- mAP 0.27315 ----
+
+---- Training Model ----
+Training Epoch 63: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1699.70it/s]
+---- Loss 0.00000 ----
+---- mAP 0.23478 ----
+
+---- Training Model ----
+Training Epoch 64: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.34it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1612.16it/s]
+---- Loss 0.00000 ----
+---- mAP 0.25057 ----
+
+---- Training Model ----
+Training Epoch 65: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1620.47it/s]
+---- Loss 0.00000 ----
+---- mAP 0.22143 ----
+
+---- Training Model ----
+Training Epoch 66: 100% 44/44 [00:23<00:00,  1.91it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.44it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1648.49it/s]
+---- Loss 0.00000 ----
+---- mAP 0.25729 ----
+
+---- Training Model ----
+Training Epoch 67: 100% 44/44 [00:22<00:00,  1.93it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1431.34it/s]
+---- Loss 0.00000 ----
+---- mAP 0.29371 ----
+
+---- Training Model ----
+Training Epoch 68: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1594.79it/s]
+---- Loss 0.00000 ----
+---- mAP 0.27423 ----
+
+---- Training Model ----
+Training Epoch 69: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1816.50it/s]
+---- Loss 0.00000 ----
+---- mAP 0.22909 ----
+
+---- Training Model ----
+Training Epoch 70: 100% 44/44 [00:24<00:00,  1.83it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1559.41it/s]
+---- Loss 0.00000 ----
+---- mAP 0.24845 ----
+
+---- Training Model ----
+Training Epoch 71: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1487.87it/s]
+---- Loss 0.00000 ----
+---- mAP 0.25113 ----
+
+---- Training Model ----
+Training Epoch 72: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1266.01it/s]
+---- Loss 0.00000 ----
+---- mAP 0.26624 ----
+
+---- Training Model ----
+Training Epoch 73: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.33it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 552.22it/s]
+---- Loss 0.00000 ----
+---- mAP 0.28966 ----
+
+---- Training Model ----
+Training Epoch 74: 100% 44/44 [00:23<00:00,  1.91it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1420.35it/s]
+---- Loss 0.00000 ----
+---- mAP 0.28094 ----
+
+---- Training Model ----
+Training Epoch 75: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1613.19it/s]
+---- Loss 0.00000 ----
+---- mAP 0.26092 ----
+
+---- Training Model ----
+Training Epoch 76: 100% 44/44 [00:23<00:00,  1.91it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1382.43it/s]
+---- Loss 0.00000 ----
+---- mAP 0.27651 ----
+
+---- Training Model ----
+Training Epoch 77: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1625.28it/s]
+---- Loss 0.00000 ----
+---- mAP 0.25326 ----
+
+---- Training Model ----
+Training Epoch 78: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 789.59it/s]
+---- Loss 0.00000 ----
+---- mAP 0.26133 ----
+
+---- Training Model ----
+Training Epoch 79: 100% 44/44 [00:23<00:00,  1.91it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1426.80it/s]
+---- Loss 0.00000 ----
+---- mAP 0.29015 ----
+
+---- Training Model ----
+Training Epoch 80: 100% 44/44 [00:22<00:00,  1.97it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1431.83it/s]
+---- Loss 0.00000 ----
+---- mAP 0.24594 ----
+
+---- Training Model ----
+Training Epoch 81: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1322.57it/s]
+---- Loss 0.00000 ----
+---- mAP 0.30274 ----
+
+---- Training Model ----
+Training Epoch 82: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 649.14it/s]
+---- Loss 0.00000 ----
+---- mAP 0.27156 ----
+
+---- Training Model ----
+Training Epoch 83: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1456.36it/s]
+---- Loss 0.00000 ----
+---- mAP 0.28070 ----
+
+---- Training Model ----
+Training Epoch 84: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1105.32it/s]
+---- Loss 0.00000 ----
+---- mAP 0.27057 ----
+
+---- Training Model ----
+Training Epoch 85: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1473.41it/s]
+---- Loss 0.00000 ----
+---- mAP 0.28200 ----
+
+---- Training Model ----
+Training Epoch 86: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.34it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1217.74it/s]
+---- Loss 0.00000 ----
+---- mAP 0.30082 ----
+
+---- Training Model ----
+Training Epoch 87: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1502.98it/s]
+---- Loss 0.00000 ----
+---- mAP 0.26884 ----
+
+---- Training Model ----
+Training Epoch 88: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.33it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1309.76it/s]
+---- Loss 0.00000 ----
+---- mAP 0.31708 ----
+
+---- Training Model ----
+Training Epoch 89: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1407.48it/s]
+---- Loss 0.00000 ----
+---- mAP 0.28078 ----
+
+---- Training Model ----
+Training Epoch 90: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 781.01it/s]
+---- Loss 0.00000 ----
+---- mAP 0.30277 ----
+
+---- Training Model ----
+Training Epoch 91: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1252.90it/s]
+---- Loss 0.00000 ----
+---- mAP 0.32277 ----
+
+---- Training Model ----
+Training Epoch 92: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1241.16it/s]
+---- Loss 0.00000 ----
+---- mAP 0.30930 ----
+
+---- Training Model ----
+Training Epoch 93: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1147.45it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33115 ----
+
+---- Training Model ----
+Training Epoch 94: 100% 44/44 [00:22<00:00,  1.96it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1015.82it/s]
+---- Loss 0.00000 ----
+---- mAP 0.29278 ----
+
+---- Training Model ----
+Training Epoch 95: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1222.12it/s]
+---- Loss 0.00000 ----
+---- mAP 0.31305 ----
+
+---- Training Model ----
+Training Epoch 96: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1378.95it/s]
+---- Loss 0.00000 ----
+---- mAP 0.31518 ----
+
+---- Training Model ----
+Training Epoch 97: 100% 44/44 [00:23<00:00,  1.91it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1261.82it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33311 ----
+
+---- Training Model ----
+Training Epoch 98: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 812.80it/s]
+---- Loss 0.00000 ----
+---- mAP 0.30695 ----
+
+---- Training Model ----
+Training Epoch 99: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1348.22it/s]
+---- Loss 0.00000 ----
+---- mAP 0.30151 ----
+
+---- Training Model ----
+Training Epoch 100: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.39it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1195.07it/s]
+---- Loss 0.00000 ----
+---- mAP 0.31973 ----
+
+---- Training Model ----
+Training Epoch 101: 100% 44/44 [00:24<00:00,  1.82it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1275.25it/s]
+---- Loss 0.00000 ----
+---- mAP 0.31516 ----
+
+---- Training Model ----
+Training Epoch 102: 100% 44/44 [00:23<00:00,  1.91it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1130.84it/s]
+---- Loss 0.00000 ----
+---- mAP 0.32989 ----
+
+---- Training Model ----
+Training Epoch 103: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1268.18it/s]
+---- Loss 0.00000 ----
+---- mAP 0.32201 ----
+
+---- Training Model ----
+Training Epoch 104: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1392.22it/s]
+---- Loss 0.00000 ----
+---- mAP 0.29816 ----
+
+---- Training Model ----
+Training Epoch 105: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.39it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1348.51it/s]
+---- Loss 0.00000 ----
+---- mAP 0.31541 ----
+
+---- Training Model ----
+Training Epoch 106: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 667.63it/s]
+---- Loss 0.00000 ----
+---- mAP 0.34366 ----
+
+---- Training Model ----
+Training Epoch 107: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1349.66it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33191 ----
+
+---- Training Model ----
+Training Epoch 108: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1258.42it/s]
+---- Loss 0.00000 ----
+---- mAP 0.32077 ----
+
+---- Training Model ----
+Training Epoch 109: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1405.44it/s]
+---- Loss 0.00000 ----
+---- mAP 0.30138 ----
+
+---- Training Model ----
+Training Epoch 110: 100% 44/44 [00:24<00:00,  1.82it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1252.53it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33632 ----
+
+---- Training Model ----
+Training Epoch 111: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 820.59it/s]
+---- Loss 0.00000 ----
+---- mAP 0.32877 ----
+
+---- Training Model ----
+Training Epoch 112: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.43it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1254.03it/s]
+---- Loss 0.00000 ----
+---- mAP 0.31947 ----
+
+---- Training Model ----
+Training Epoch 113: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 906.03it/s]
+---- Loss 0.00000 ----
+---- mAP 0.34977 ----
+
+---- Training Model ----
+Training Epoch 114: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1319.79it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33325 ----
+
+---- Training Model ----
+Training Epoch 115: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1147.34it/s]
+---- Loss 0.00000 ----
+---- mAP 0.31422 ----
+
+---- Training Model ----
+Training Epoch 116: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 734.25it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35408 ----
+
+---- Training Model ----
+Training Epoch 117: 100% 44/44 [00:22<00:00,  1.94it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1159.50it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33206 ----
+
+---- Training Model ----
+Training Epoch 118: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 627.51it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33710 ----
+
+---- Training Model ----
+Training Epoch 119: 100% 44/44 [00:22<00:00,  1.94it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 607.64it/s]
+---- Loss 0.00000 ----
+---- mAP 0.34160 ----
+
+---- Training Model ----
+Training Epoch 120: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1232.65it/s]
+---- Loss 0.00000 ----
+---- mAP 0.34490 ----
+
+---- Training Model ----
+Training Epoch 121: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1231.45it/s]
+---- Loss 0.00000 ----
+---- mAP 0.34369 ----
+
+---- Training Model ----
+Training Epoch 122: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1105.41it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33896 ----
+
+---- Training Model ----
+Training Epoch 123: 100% 44/44 [00:24<00:00,  1.83it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1219.87it/s]
+---- Loss 0.00000 ----
+---- mAP 0.31724 ----
+
+---- Training Model ----
+Training Epoch 124: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.33it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1156.31it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35304 ----
+
+---- Training Model ----
+Training Epoch 125: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 794.73it/s]
+---- Loss 0.00000 ----
+---- mAP 0.34540 ----
+
+---- Training Model ----
+Training Epoch 126: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1147.76it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33998 ----
+
+---- Training Model ----
+Training Epoch 127: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1216.68it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33913 ----
+
+---- Training Model ----
+Training Epoch 128: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1154.71it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33270 ----
+
+---- Training Model ----
+Training Epoch 129: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.34it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1164.44it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33145 ----
+
+---- Training Model ----
+Training Epoch 130: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.39it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1131.96it/s]
+---- Loss 0.00000 ----
+---- mAP 0.37056 ----
+
+---- Training Model ----
+Training Epoch 131: 100% 44/44 [00:22<00:00,  1.94it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1019.11it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35738 ----
+
+---- Training Model ----
+Training Epoch 132: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.39it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1141.62it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35232 ----
+
+---- Training Model ----
+Training Epoch 133: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1184.83it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33851 ----
+
+---- Training Model ----
+Training Epoch 134: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1307.32it/s]
+---- Loss 0.00000 ----
+---- mAP 0.32921 ----
+
+---- Training Model ----
+Training Epoch 135: 100% 44/44 [00:24<00:00,  1.83it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1215.98it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35104 ----
+
+---- Training Model ----
+Training Epoch 136: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 678.18it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33685 ----
+
+---- Training Model ----
+Training Epoch 137: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1216.21it/s]
+---- Loss 0.00000 ----
+---- mAP 0.33887 ----
+
+---- Training Model ----
+Training Epoch 138: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1038.11it/s]
+---- Loss 0.00000 ----
+---- mAP 0.36255 ----
+
+---- Training Model ----
+Training Epoch 139: 100% 44/44 [00:24<00:00,  1.82it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.34it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 777.15it/s]
+---- Loss 0.00000 ----
+---- mAP 0.36268 ----
+
+---- Training Model ----
+Training Epoch 140: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1102.80it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35017 ----
+
+---- Training Model ----
+Training Epoch 141: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1075.65it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35352 ----
+
+---- Training Model ----
+Training Epoch 142: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1148.81it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35948 ----
+
+---- Training Model ----
+Training Epoch 143: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1107.46it/s]
+---- Loss 0.00000 ----
+---- mAP 0.36740 ----
+
+---- Training Model ----
+Training Epoch 144: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1227.48it/s]
+---- Loss 0.00000 ----
+---- mAP 0.34891 ----
+
+---- Training Model ----
+Training Epoch 145: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1170.83it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35177 ----
+
+---- Training Model ----
+Training Epoch 146: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1037.94it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35778 ----
+
+---- Training Model ----
+Training Epoch 147: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1103.38it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35920 ----
+
+---- Training Model ----
+Training Epoch 148: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 711.66it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35436 ----
+
+---- Training Model ----
+Training Epoch 149: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1084.17it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38173 ----
+
+---- Training Model ----
+Training Epoch 150: 100% 44/44 [00:24<00:00,  1.82it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1097.99it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38436 ----
+
+---- Training Model ----
+Training Epoch 151: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.32it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 531.31it/s]
+---- Loss 0.00000 ----
+---- mAP 0.36648 ----
+
+---- Training Model ----
+Training Epoch 152: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.39it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 778.12it/s]
+---- Loss 0.00000 ----
+---- mAP 0.37964 ----
+
+---- Training Model ----
+Training Epoch 153: 100% 44/44 [00:22<00:00,  1.93it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 964.65it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38114 ----
+
+---- Training Model ----
+Training Epoch 154: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.32it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1062.93it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38688 ----
+
+---- Training Model ----
+Training Epoch 155: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1089.81it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35729 ----
+
+---- Training Model ----
+Training Epoch 156: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.39it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1033.08it/s]
+---- Loss 0.00000 ----
+---- mAP 0.36858 ----
+
+---- Training Model ----
+Training Epoch 157: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1032.49it/s]
+---- Loss 0.00000 ----
+---- mAP 0.36965 ----
+
+---- Training Model ----
+Training Epoch 158: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1097.41it/s]
+---- Loss 0.00000 ----
+---- mAP 0.36608 ----
+
+---- Training Model ----
+Training Epoch 159: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.34it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1052.08it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38013 ----
+
+---- Training Model ----
+Training Epoch 160: 100% 44/44 [00:22<00:00,  1.93it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.34it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1118.98it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38061 ----
+
+---- Training Model ----
+Training Epoch 161: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1012.95it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35610 ----
+
+---- Training Model ----
+Training Epoch 162: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1058.63it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35810 ----
+
+---- Training Model ----
+Training Epoch 163: 100% 44/44 [00:24<00:00,  1.83it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 589.92it/s]
+---- Loss 0.00000 ----
+---- mAP 0.36154 ----
+
+---- Training Model ----
+Training Epoch 164: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1168.11it/s]
+---- Loss 0.00000 ----
+---- mAP 0.36159 ----
+
+---- Training Model ----
+Training Epoch 165: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 787.56it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35426 ----
+
+---- Training Model ----
+Training Epoch 166: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.39it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1033.59it/s]
+---- Loss 0.00000 ----
+---- mAP 0.37743 ----
+
+---- Training Model ----
+Training Epoch 167: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1185.50it/s]
+---- Loss 0.00000 ----
+---- mAP 0.35855 ----
+
+---- Training Model ----
+Training Epoch 168: 100% 44/44 [00:24<00:00,  1.83it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.39it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1019.85it/s]
+---- Loss 0.00000 ----
+---- mAP 0.37766 ----
+
+---- Training Model ----
+Training Epoch 169: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 819.57it/s]
+---- Loss 0.00000 ----
+---- mAP 0.37961 ----
+
+---- Training Model ----
+Training Epoch 170: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1097.12it/s]
+---- Loss 0.00000 ----
+---- mAP 0.36209 ----
+
+---- Training Model ----
+Training Epoch 171: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1086.23it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38613 ----
+
+---- Training Model ----
+Training Epoch 172: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1024.67it/s]
+---- Loss 0.00000 ----
+---- mAP 0.39802 ----
+
+---- Training Model ----
+Training Epoch 173: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1125.79it/s]
+---- Loss 0.00000 ----
+---- mAP 0.36584 ----
+
+---- Training Model ----
+Training Epoch 174: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.33it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1132.17it/s]
+---- Loss 0.00000 ----
+---- mAP 0.39457 ----
+
+---- Training Model ----
+Training Epoch 175: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1119.68it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38501 ----
+
+---- Training Model ----
+Training Epoch 176: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.39it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1018.45it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38551 ----
+
+---- Training Model ----
+Training Epoch 177: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 648.27it/s]
+---- Loss 0.00000 ----
+---- mAP 0.39381 ----
+
+---- Training Model ----
+Training Epoch 178: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1024.00it/s]
+---- Loss 0.00000 ----
+---- mAP 0.36538 ----
+
+---- Training Model ----
+Training Epoch 179: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1056.06it/s]
+---- Loss 0.00000 ----
+---- mAP 0.37913 ----
+
+---- Training Model ----
+Training Epoch 180: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.39it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 735.54it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38460 ----
+
+---- Training Model ----
+Training Epoch 181: 100% 44/44 [00:22<00:00,  1.93it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1081.94it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38929 ----
+
+---- Training Model ----
+Training Epoch 182: 100% 44/44 [00:23<00:00,  1.89it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1128.11it/s]
+---- Loss 0.00000 ----
+---- mAP 0.37261 ----
+
+---- Training Model ----
+Training Epoch 183: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.34it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 960.38it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38826 ----
+
+---- Training Model ----
+Training Epoch 184: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1082.49it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38631 ----
+
+---- Training Model ----
+Training Epoch 185: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 597.22it/s]
+---- Loss 0.00000 ----
+---- mAP 0.39289 ----
+
+---- Training Model ----
+Training Epoch 186: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1158.65it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38716 ----
+
+---- Training Model ----
+Training Epoch 187: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1017.05it/s]
+---- Loss 0.00000 ----
+---- mAP 0.39833 ----
+
+---- Training Model ----
+Training Epoch 188: 100% 44/44 [00:23<00:00,  1.86it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.39it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1054.91it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38858 ----
+
+---- Training Model ----
+Training Epoch 189: 100% 44/44 [00:22<00:00,  1.92it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 998.17it/s]
+---- Loss 0.00000 ----
+---- mAP 0.37752 ----
+
+---- Training Model ----
+Training Epoch 190: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.40it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1007.12it/s]
+---- Loss 0.00000 ----
+---- mAP 0.39492 ----
+
+---- Training Model ----
+Training Epoch 191: 100% 44/44 [00:22<00:00,  1.96it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1080.54it/s]
+---- Loss 0.00000 ----
+---- mAP 0.37101 ----
+
+---- Training Model ----
+Training Epoch 192: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1075.19it/s]
+---- Loss 0.00000 ----
+---- mAP 0.36497 ----
+
+---- Training Model ----
+Training Epoch 193: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1002.38it/s]
+---- Loss 0.00000 ----
+---- mAP 0.39935 ----
+
+---- Training Model ----
+Training Epoch 194: 100% 44/44 [00:23<00:00,  1.90it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1108.24it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38712 ----
+
+---- Training Model ----
+Training Epoch 195: 100% 44/44 [00:23<00:00,  1.87it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.36it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1057.39it/s]
+---- Loss 0.00000 ----
+---- mAP 0.37297 ----
+
+---- Training Model ----
+Training Epoch 196: 100% 44/44 [00:23<00:00,  1.88it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.42it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1006.87it/s]
+---- Loss 0.00000 ----
+---- mAP 0.40025 ----
+
+---- Training Model ----
+Training Epoch 197: 100% 44/44 [00:23<00:00,  1.91it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.37it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 992.42it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38372 ----
+
+---- Training Model ----
+Training Epoch 198: 100% 44/44 [00:23<00:00,  1.85it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.35it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1064.09it/s]
+---- Loss 0.00000 ----
+---- mAP 0.37716 ----
+
+---- Training Model ----
+Training Epoch 199: 100% 44/44 [00:22<00:00,  1.93it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.38it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 1017.21it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38803 ----
+
+---- Training Model ----
+Training Epoch 200: 100% 44/44 [00:23<00:00,  1.84it/s]
+
+---- Evaluating Model ----
+Validating: 100% 13/13 [00:09<00:00,  1.41it/s]
+Computing AP: 100% 3/3 [00:00<00:00, 581.04it/s]
+---- Loss 0.00000 ----
+---- mAP 0.38571 ----
