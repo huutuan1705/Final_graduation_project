@@ -50,6 +50,7 @@ import com.google.gson.Gson
 import com.google.gson.GsonBuilder
 import com.ptit.predicttuand20.YoloRetrofitClient.gson
 import com.ptit.predicttuand20.ui.theme.PredictTuanD20Theme
+import com.ptit.predicttuand20.ui.theme.Green40
 import kotlinx.coroutines.launch
 import okhttp3.MediaType.Companion.toMediaTypeOrNull
 import okhttp3.MultipartBody
@@ -168,7 +169,7 @@ class MainActivity : ComponentActivity() {
                             ) {
                                 Button(
                                     colors = ButtonDefaults.buttonColors(
-                                        containerColor = Color.Green,
+                                        containerColor = Green40,
                                         contentColor = Color.White
                                     ),
                                     shape = RoundedCornerShape(12.dp),
@@ -206,7 +207,7 @@ class MainActivity : ComponentActivity() {
 
                                 Button(
                                     colors = ButtonDefaults.buttonColors(
-                                        containerColor = Color.Green,
+                                        containerColor = Green40,
                                         contentColor = Color.White
                                     ),
                                     shape = RoundedCornerShape(12.dp),
@@ -245,7 +246,7 @@ class MainActivity : ComponentActivity() {
 
                             Button(
                                 colors = ButtonDefaults.buttonColors(
-                                    containerColor = Color.Green,
+                                    containerColor = Green40,
                                     contentColor = Color.White
                                 ),
                                 shape = RoundedCornerShape(12.dp),
@@ -311,7 +312,7 @@ class MainActivity : ComponentActivity() {
                         } else {
                             Button(
                                 colors = ButtonDefaults.buttonColors(
-                                    containerColor = Color.Green,
+                                    containerColor = Green40,
                                     contentColor = Color.White
                                 ),
                                 modifier = Modifier.fillMaxWidth(),
