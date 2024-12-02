@@ -1,0 +1,3199 @@
+100%|██████████| 57/57 [15:09<00:00, 15.96s/it]
+100%|██████████| 25/25 [04:14<00:00, 10.20s/it]
+Averaged stats:
+ class_error: 86.36
+  loss: 7.4168 (7.5589)
+  loss_ce: 0.6640 (0.6802)
+  loss_bbox: 4.7203 (4.7653)
+  loss_giou: 2.0941 (2.1135)
+  loss_ce_unscaled: 0.6640 (0.6802)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.9441 (0.9531)
+  loss_giou_unscaled: 1.0471 (1.0567)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 0
+100%|██████████| 57/57 [00:50<00:00,  1.12it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 7.4168 (7.5589)
+  loss_ce: 0.6640 (0.6802)
+  loss_bbox: 4.7203 (4.7653)
+  loss_giou: 2.0941 (2.1135)
+  loss_ce_unscaled: 0.6640 (0.6802)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.9441 (0.9531)
+  loss_giou_unscaled: 1.0471 (1.0567)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 1
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.52it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 7.3780 (7.5220)
+  loss_ce: 0.6619 (0.6790)
+  loss_bbox: 4.6773 (4.7242)
+  loss_giou: 2.1004 (2.1188)
+  loss_ce_unscaled: 0.6619 (0.6790)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.9355 (0.9448)
+  loss_giou_unscaled: 1.0502 (1.0594)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 2
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 7.3020 (7.4489)
+  loss_ce: 0.6587 (0.6769)
+  loss_bbox: 4.5940 (4.6421)
+  loss_giou: 2.1131 (2.1298)
+  loss_ce_unscaled: 0.6587 (0.6769)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.9188 (0.9284)
+  loss_giou_unscaled: 1.0565 (1.0649)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 3
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 7.1940 (7.3426)
+  loss_ce: 0.6551 (0.6747)
+  loss_bbox: 4.4672 (4.5203)
+  loss_giou: 2.1335 (2.1476)
+  loss_ce_unscaled: 0.6551 (0.6747)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.8934 (0.9041)
+  loss_giou_unscaled: 1.0668 (1.0738)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 4
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.57it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 7.0586 (7.2101)
+  loss_ce: 0.6514 (0.6723)
+  loss_bbox: 4.3084 (4.3668)
+  loss_giou: 2.1575 (2.1710)
+  loss_ce_unscaled: 0.6514 (0.6723)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.8617 (0.8734)
+  loss_giou_unscaled: 1.0787 (1.0855)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 5
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.46it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 6.9099 (7.0609)
+  loss_ce: 0.6474 (0.6699)
+  loss_bbox: 4.1363 (4.1917)
+  loss_giou: 2.1868 (2.1992)
+  loss_ce_unscaled: 0.6474 (0.6699)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.8273 (0.8383)
+  loss_giou_unscaled: 1.0934 (1.0996)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 6
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 6.7508 (6.9000)
+  loss_ce: 0.6440 (0.6669)
+  loss_bbox: 3.9560 (4.0012)
+  loss_giou: 2.2223 (2.2319)
+  loss_ce_unscaled: 0.6440 (0.6669)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.7912 (0.8002)
+  loss_giou_unscaled: 1.1111 (1.1160)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 7
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 6.5835 (6.7279)
+  loss_ce: 0.6393 (0.6632)
+  loss_bbox: 3.7543 (3.7930)
+  loss_giou: 2.2685 (2.2717)
+  loss_ce_unscaled: 0.6393 (0.6632)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.7509 (0.7586)
+  loss_giou_unscaled: 1.1342 (1.1359)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 8
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.36it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 6.4230 (6.5509)
+  loss_ce: 0.6381 (0.6600)
+  loss_bbox: 3.5349 (3.5702)
+  loss_giou: 2.3233 (2.3207)
+  loss_ce_unscaled: 0.6381 (0.6600)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.7070 (0.7140)
+  loss_giou_unscaled: 1.1616 (1.1603)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 9
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 6.2603 (6.3689)
+  loss_ce: 0.6358 (0.6579)
+  loss_bbox: 3.2996 (3.3310)
+  loss_giou: 2.3869 (2.3800)
+  loss_ce_unscaled: 0.6358 (0.6579)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.6599 (0.6662)
+  loss_giou_unscaled: 1.1934 (1.1900)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 10
+100%|██████████| 57/57 [00:47<00:00,  1.21it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 6.1124 (6.1895)
+  loss_ce: 0.6345 (0.6558)
+  loss_bbox: 3.0562 (3.0837)
+  loss_giou: 2.4579 (2.4499)
+  loss_ce_unscaled: 0.6345 (0.6558)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.6112 (0.6167)
+  loss_giou_unscaled: 1.2290 (1.2250)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 11
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.63it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.9713 (6.0168)
+  loss_ce: 0.6314 (0.6521)
+  loss_bbox: 2.7989 (2.8257)
+  loss_giou: 2.5447 (2.5389)
+  loss_ce_unscaled: 0.6314 (0.6521)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.5598 (0.5651)
+  loss_giou_unscaled: 1.2723 (1.2695)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 12
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.37it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.8158 (5.8587)
+  loss_ce: 0.6308 (0.6500)
+  loss_bbox: 2.5445 (2.5728)
+  loss_giou: 2.6371 (2.6359)
+  loss_ce_unscaled: 0.6308 (0.6500)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.5089 (0.5146)
+  loss_giou_unscaled: 1.3185 (1.3180)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 13
+100%|██████████| 57/57 [00:47<00:00,  1.21it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.70it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.6621 (5.7100)
+  loss_ce: 0.6273 (0.6467)
+  loss_bbox: 2.2902 (2.3210)
+  loss_giou: 2.7565 (2.7423)
+  loss_ce_unscaled: 0.6273 (0.6467)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.4580 (0.4642)
+  loss_giou_unscaled: 1.3782 (1.3711)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 14
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.5399 (5.5824)
+  loss_ce: 0.6254 (0.6438)
+  loss_bbox: 2.0525 (2.0848)
+  loss_giou: 2.8809 (2.8539)
+  loss_ce_unscaled: 0.6254 (0.6438)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.4105 (0.4170)
+  loss_giou_unscaled: 1.4405 (1.4269)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 7.637105644636518e-05
+Finish epoch: 15
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4394 (5.4923)
+  loss_ce: 0.6224 (0.6412)
+  loss_bbox: 1.8579 (1.8905)
+  loss_giou: 2.9944 (2.9606)
+  loss_ce_unscaled: 0.6224 (0.6412)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.3716 (0.3781)
+  loss_giou_unscaled: 1.4972 (1.4803)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 2.766743740242287e-05
+Finish epoch: 16
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3753 (5.4125)
+  loss_ce: 0.6224 (0.6386)
+  loss_bbox: 1.6828 (1.7249)
+  loss_giou: 3.0759 (3.0490)
+  loss_ce_unscaled: 0.6224 (0.6386)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.3366 (0.3450)
+  loss_giou_unscaled: 1.5379 (1.5245)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.01589754168367677
+Finish epoch: 17
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.36it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3315 (5.3711)
+  loss_ce: 0.6173 (0.6376)
+  loss_bbox: 1.6095 (1.6210)
+  loss_giou: 3.1348 (3.1125)
+  loss_ce_unscaled: 0.6173 (0.6376)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.3219 (0.3242)
+  loss_giou_unscaled: 1.5674 (1.5562)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 5.337112861409582e-05
+Finish epoch: 18
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3084 (5.3658)
+  loss_ce: 0.6187 (0.6361)
+  loss_bbox: 1.5778 (1.5921)
+  loss_giou: 3.1340 (3.1376)
+  loss_ce_unscaled: 0.6187 (0.6361)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.3156 (0.3184)
+  loss_giou_unscaled: 1.5670 (1.5688)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.007948459516610343
+Finish epoch: 19
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3120 (5.3537)
+  loss_ce: 0.6198 (0.6367)
+  loss_bbox: 1.5626 (1.5622)
+  loss_giou: 3.1673 (3.1548)
+  loss_ce_unscaled: 0.6198 (0.6367)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.3125 (0.3124)
+  loss_giou_unscaled: 1.5836 (1.5774)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00012002078439796908
+Finish epoch: 20
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2899 (5.3521)
+  loss_ce: 0.6187 (0.6355)
+  loss_bbox: 1.5371 (1.5422)
+  loss_giou: 3.1734 (3.1744)
+  loss_ce_unscaled: 0.6187 (0.6355)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.3074 (0.3084)
+  loss_giou_unscaled: 1.5867 (1.5872)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.021839139942563434
+Finish epoch: 21
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.50it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2891 (5.3443)
+  loss_ce: 0.6194 (0.6342)
+  loss_bbox: 1.5189 (1.5275)
+  loss_giou: 3.1811 (3.1826)
+  loss_ce_unscaled: 0.6194 (0.6342)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.3038 (0.3055)
+  loss_giou_unscaled: 1.5906 (1.5913)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.016132806656200177
+Finish epoch: 22
+100%|██████████| 57/57 [00:47<00:00,  1.21it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.47it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2829 (5.3383)
+  loss_ce: 0.6195 (0.6340)
+  loss_bbox: 1.5036 (1.5158)
+  loss_giou: 3.1854 (3.1885)
+  loss_ce_unscaled: 0.6195 (0.6340)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.3007 (0.3032)
+  loss_giou_unscaled: 1.5927 (1.5943)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.027971956412759996
+Finish epoch: 23
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2824 (5.3366)
+  loss_ce: 0.6197 (0.6348)
+  loss_bbox: 1.5025 (1.5000)
+  loss_giou: 3.2065 (3.2018)
+  loss_ce_unscaled: 0.6197 (0.6348)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.3005 (0.3000)
+  loss_giou_unscaled: 1.6032 (1.6009)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 7.821861104069961e-05
+Finish epoch: 24
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.39it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2817 (5.3290)
+  loss_ce: 0.6182 (0.6327)
+  loss_bbox: 1.4848 (1.4899)
+  loss_giou: 3.2045 (3.2064)
+  loss_ce_unscaled: 0.6182 (0.6327)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2970 (0.2980)
+  loss_giou_unscaled: 1.6023 (1.6032)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.014111071750359286
+Finish epoch: 25
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.46it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2669 (5.3213)
+  loss_ce: 0.6196 (0.6346)
+  loss_bbox: 1.4836 (1.4803)
+  loss_giou: 3.2196 (3.2065)
+  loss_ce_unscaled: 0.6196 (0.6346)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2967 (0.2961)
+  loss_giou_unscaled: 1.6098 (1.6033)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 8.18982231738363e-05
+Finish epoch: 26
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.52it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2670 (5.3148)
+  loss_ce: 0.6182 (0.6339)
+  loss_bbox: 1.4766 (1.4695)
+  loss_giou: 3.2197 (3.2114)
+  loss_ce_unscaled: 0.6182 (0.6339)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2953 (0.2939)
+  loss_giou_unscaled: 1.6099 (1.6057)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.01396596934710923
+Finish epoch: 27
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.46it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2674 (5.3171)
+  loss_ce: 0.6188 (0.6344)
+  loss_bbox: 1.4648 (1.4591)
+  loss_giou: 3.2301 (3.2236)
+  loss_ce_unscaled: 0.6188 (0.6344)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2930 (0.2918)
+  loss_giou_unscaled: 1.6150 (1.6118)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.02782096499299195
+Finish epoch: 28
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.48it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2624 (5.2956)
+  loss_ce: 0.6170 (0.6319)
+  loss_bbox: 1.4521 (1.4477)
+  loss_giou: 3.2233 (3.2160)
+  loss_ce_unscaled: 0.6170 (0.6319)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2904 (0.2895)
+  loss_giou_unscaled: 1.6117 (1.6080)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.02797883165272614
+Finish epoch: 29
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.62it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2282 (5.2907)
+  loss_ce: 0.6223 (0.6353)
+  loss_bbox: 1.4219 (1.4376)
+  loss_giou: 3.2459 (3.2178)
+  loss_ce_unscaled: 0.6223 (0.6353)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2844 (0.2875)
+  loss_giou_unscaled: 1.6230 (1.6089)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 4.080554731272851e-05
+Finish epoch: 30
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1882 (5.2746)
+  loss_ce: 0.6176 (0.6328)
+  loss_bbox: 1.3912 (1.4263)
+  loss_giou: 3.2350 (3.2155)
+  loss_ce_unscaled: 0.6176 (0.6328)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2782 (0.2853)
+  loss_giou_unscaled: 1.6175 (1.6077)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 2.5031770110022246e-05
+Finish epoch: 31
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.71it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1549 (5.2771)
+  loss_ce: 0.6218 (0.6368)
+  loss_bbox: 1.3773 (1.4195)
+  loss_giou: 3.2360 (3.2208)
+  loss_ce_unscaled: 0.6218 (0.6368)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2755 (0.2839)
+  loss_giou_unscaled: 1.6180 (1.6104)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 2.3279471040117968e-05
+Finish epoch: 32
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:08<00:00,  2.85it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1621 (5.2588)
+  loss_ce: 0.6181 (0.6328)
+  loss_bbox: 1.3635 (1.4016)
+  loss_giou: 3.2470 (3.2245)
+  loss_ce_unscaled: 0.6181 (0.6328)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2727 (0.2803)
+  loss_giou_unscaled: 1.6235 (1.6122)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 5.883083641238054e-05
+Finish epoch: 33
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.60it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1702 (5.2457)
+  loss_ce: 0.6188 (0.6331)
+  loss_bbox: 1.3830 (1.3925)
+  loss_giou: 3.2375 (3.2201)
+  loss_ce_unscaled: 0.6188 (0.6331)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2766 (0.2785)
+  loss_giou_unscaled: 1.6188 (1.6100)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00024316424832032012
+Finish epoch: 34
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1234 (5.2275)
+  loss_ce: 0.6200 (0.6335)
+  loss_bbox: 1.3557 (1.3800)
+  loss_giou: 3.2279 (3.2140)
+  loss_ce_unscaled: 0.6200 (0.6335)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2711 (0.2760)
+  loss_giou_unscaled: 1.6139 (1.6070)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 6.938471760931337e-05
+Finish epoch: 35
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.56it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1266 (5.1994)
+  loss_ce: 0.6160 (0.6316)
+  loss_bbox: 1.3778 (1.3714)
+  loss_giou: 3.2156 (3.1965)
+  loss_ce_unscaled: 0.6160 (0.6316)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2756 (0.2743)
+  loss_giou_unscaled: 1.6078 (1.5982)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0004882841460438762
+Finish epoch: 36
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1438 (5.2025)
+  loss_ce: 0.6199 (0.6338)
+  loss_bbox: 1.3730 (1.3744)
+  loss_giou: 3.2142 (3.1943)
+  loss_ce_unscaled: 0.6199 (0.6338)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2746 (0.2749)
+  loss_giou_unscaled: 1.6071 (1.5971)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0002620182023447902
+Finish epoch: 37
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1547 (5.2056)
+  loss_ce: 0.6205 (0.6355)
+  loss_bbox: 1.3501 (1.3669)
+  loss_giou: 3.2173 (3.2032)
+  loss_ce_unscaled: 0.6205 (0.6355)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2700 (0.2734)
+  loss_giou_unscaled: 1.6087 (1.6016)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.013861386138613856
+Finish epoch: 38
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1828 (5.2150)
+  loss_ce: 0.6216 (0.6349)
+  loss_bbox: 1.3572 (1.3732)
+  loss_giou: 3.2299 (3.2068)
+  loss_ce_unscaled: 0.6216 (0.6349)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2714 (0.2746)
+  loss_giou_unscaled: 1.6150 (1.6034)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00021828954548998205
+Finish epoch: 39
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1478 (5.1893)
+  loss_ce: 0.6200 (0.6334)
+  loss_bbox: 1.3364 (1.3561)
+  loss_giou: 3.2220 (3.1998)
+  loss_ce_unscaled: 0.6200 (0.6334)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2673 (0.2712)
+  loss_giou_unscaled: 1.6110 (1.5999)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00014706324841929779
+Finish epoch: 40
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.39it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1695 (5.1915)
+  loss_ce: 0.6212 (0.6351)
+  loss_bbox: 1.3177 (1.3529)
+  loss_giou: 3.2290 (3.2035)
+  loss_ce_unscaled: 0.6212 (0.6351)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2635 (0.2706)
+  loss_giou_unscaled: 1.6145 (1.6018)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 8.486562942008487e-06
+Finish epoch: 41
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.37it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2102 (5.2309)
+  loss_ce: 0.6217 (0.6356)
+  loss_bbox: 1.3752 (1.3816)
+  loss_giou: 3.2572 (3.2137)
+  loss_ce_unscaled: 0.6217 (0.6356)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2750 (0.2763)
+  loss_giou_unscaled: 1.6286 (1.6068)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 42
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.46it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1570 (5.1769)
+  loss_ce: 0.6213 (0.6346)
+  loss_bbox: 1.3271 (1.3446)
+  loss_giou: 3.2123 (3.1976)
+  loss_ce_unscaled: 0.6213 (0.6346)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2654 (0.2689)
+  loss_giou_unscaled: 1.6061 (1.5988)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00011868221617649141
+Finish epoch: 43
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.50it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1888 (5.1797)
+  loss_ce: 0.6203 (0.6333)
+  loss_bbox: 1.3200 (1.3470)
+  loss_giou: 3.2165 (3.1994)
+  loss_ce_unscaled: 0.6203 (0.6333)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2640 (0.2694)
+  loss_giou_unscaled: 1.6083 (1.5997)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.0495749221565265e-05
+Finish epoch: 44
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.39it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1926 (5.1913)
+  loss_ce: 0.6237 (0.6363)
+  loss_bbox: 1.3402 (1.3457)
+  loss_giou: 3.2433 (3.2093)
+  loss_ce_unscaled: 0.6237 (0.6363)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2680 (0.2691)
+  loss_giou_unscaled: 1.6217 (1.6047)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 5.0256624999071406e-05
+Finish epoch: 45
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1559 (5.1677)
+  loss_ce: 0.6220 (0.6347)
+  loss_bbox: 1.3172 (1.3321)
+  loss_giou: 3.2293 (3.2009)
+  loss_ce_unscaled: 0.6220 (0.6347)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2634 (0.2664)
+  loss_giou_unscaled: 1.6147 (1.6005)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 3.89677440080028e-05
+Finish epoch: 46
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.50it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1637 (5.1711)
+  loss_ce: 0.6219 (0.6351)
+  loss_bbox: 1.3251 (1.3359)
+  loss_giou: 3.2342 (3.2000)
+  loss_ce_unscaled: 0.6219 (0.6351)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2650 (0.2672)
+  loss_giou_unscaled: 1.6171 (1.6000)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 5.0774308200050766e-05
+Finish epoch: 47
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2103 (5.2185)
+  loss_ce: 0.6226 (0.6360)
+  loss_bbox: 1.3817 (1.3631)
+  loss_giou: 3.2818 (3.2194)
+  loss_ce_unscaled: 0.6226 (0.6360)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2763 (0.2726)
+  loss_giou_unscaled: 1.6409 (1.6097)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00037636145207167656
+Finish epoch: 48
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1810 (5.1957)
+  loss_ce: 0.6216 (0.6344)
+  loss_bbox: 1.3439 (1.3490)
+  loss_giou: 3.2643 (3.2123)
+  loss_ce_unscaled: 0.6216 (0.6344)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2688 (0.2698)
+  loss_giou_unscaled: 1.6321 (1.6061)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.1857473172466947e-05
+Finish epoch: 49
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1590 (5.1901)
+  loss_ce: 0.6216 (0.6342)
+  loss_bbox: 1.3427 (1.3484)
+  loss_giou: 3.2422 (3.2074)
+  loss_ce_unscaled: 0.6216 (0.6342)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2685 (0.2697)
+  loss_giou_unscaled: 1.6211 (1.6037)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.1857473172466947e-05
+Finish epoch: 50
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.60it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1595 (5.2083)
+  loss_ce: 0.6236 (0.6360)
+  loss_bbox: 1.3579 (1.3550)
+  loss_giou: 3.2914 (3.2174)
+  loss_ce_unscaled: 0.6236 (0.6360)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2716 (0.2710)
+  loss_giou_unscaled: 1.6457 (1.6087)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00029662653128610043
+Finish epoch: 51
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.46it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1290 (5.1869)
+  loss_ce: 0.6210 (0.6333)
+  loss_bbox: 1.3320 (1.3430)
+  loss_giou: 3.2404 (3.2106)
+  loss_ce_unscaled: 0.6210 (0.6333)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2664 (0.2686)
+  loss_giou_unscaled: 1.6202 (1.6053)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 7.086999694140014e-05
+Finish epoch: 52
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.0915 (5.1456)
+  loss_ce: 0.6217 (0.6347)
+  loss_bbox: 1.3127 (1.3155)
+  loss_giou: 3.2423 (3.1954)
+  loss_ce_unscaled: 0.6217 (0.6347)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2625 (0.2631)
+  loss_giou_unscaled: 1.6212 (1.5977)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 9.005078621899131e-05
+Finish epoch: 53
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1086 (5.1837)
+  loss_ce: 0.6211 (0.6342)
+  loss_bbox: 1.3112 (1.3377)
+  loss_giou: 3.2850 (3.2118)
+  loss_ce_unscaled: 0.6211 (0.6342)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2622 (0.2675)
+  loss_giou_unscaled: 1.6425 (1.6059)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00021666207367526072
+Finish epoch: 54
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.66it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.0947 (5.1374)
+  loss_ce: 0.6218 (0.6349)
+  loss_bbox: 1.2963 (1.3071)
+  loss_giou: 3.2258 (3.1954)
+  loss_ce_unscaled: 0.6218 (0.6349)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2593 (0.2614)
+  loss_giou_unscaled: 1.6129 (1.5977)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 9.024669397683443e-05
+Finish epoch: 55
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.61it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1800 (5.2155)
+  loss_ce: 0.6208 (0.6339)
+  loss_bbox: 1.3483 (1.3534)
+  loss_giou: 3.2642 (3.2283)
+  loss_ce_unscaled: 0.6208 (0.6339)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2697 (0.2707)
+  loss_giou_unscaled: 1.6321 (1.6141)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.4740928187111517e-05
+Finish epoch: 56
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.43it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1693 (5.2262)
+  loss_ce: 0.6224 (0.6347)
+  loss_bbox: 1.3457 (1.3590)
+  loss_giou: 3.3044 (3.2325)
+  loss_ce_unscaled: 0.6224 (0.6347)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2691 (0.2718)
+  loss_giou_unscaled: 1.6522 (1.6163)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00018850317542348094
+Finish epoch: 57
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1217 (5.1778)
+  loss_ce: 0.6194 (0.6319)
+  loss_bbox: 1.3138 (1.3324)
+  loss_giou: 3.2486 (3.2134)
+  loss_ce_unscaled: 0.6194 (0.6319)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2628 (0.2665)
+  loss_giou_unscaled: 1.6243 (1.6067)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 7.027113743501895e-05
+Finish epoch: 58
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.47it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.0651 (5.1505)
+  loss_ce: 0.6211 (0.6340)
+  loss_bbox: 1.2928 (1.3131)
+  loss_giou: 3.2580 (3.2035)
+  loss_ce_unscaled: 0.6211 (0.6340)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2586 (0.2626)
+  loss_giou_unscaled: 1.6290 (1.6018)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00024290161382723764
+Finish epoch: 59
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1831 (5.2551)
+  loss_ce: 0.6194 (0.6326)
+  loss_bbox: 1.3582 (1.3741)
+  loss_giou: 3.2859 (3.2483)
+  loss_ce_unscaled: 0.6194 (0.6326)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2716 (0.2748)
+  loss_giou_unscaled: 1.6430 (1.6242)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0004569687738004569
+Finish epoch: 60
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:08<00:00,  2.84it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1519 (5.2178)
+  loss_ce: 0.6212 (0.6337)
+  loss_bbox: 1.3525 (1.3471)
+  loss_giou: 3.3044 (3.2370)
+  loss_ce_unscaled: 0.6212 (0.6337)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2705 (0.2694)
+  loss_giou_unscaled: 1.6522 (1.6185)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.017821782178217817
+Finish epoch: 61
+100%|██████████| 57/57 [00:48<00:00,  1.18it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.49it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2218 (5.2967)
+  loss_ce: 0.6210 (0.6338)
+  loss_bbox: 1.3894 (1.3920)
+  loss_giou: 3.3236 (3.2708)
+  loss_ce_unscaled: 0.6210 (0.6338)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2779 (0.2784)
+  loss_giou_unscaled: 1.6618 (1.6354)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00024752475247524753
+Finish epoch: 62
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.62it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1797 (5.2285)
+  loss_ce: 0.6189 (0.6324)
+  loss_bbox: 1.3483 (1.3540)
+  loss_giou: 3.2991 (3.2421)
+  loss_ce_unscaled: 0.6189 (0.6324)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2697 (0.2708)
+  loss_giou_unscaled: 1.6495 (1.6210)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.017831666694123647
+Finish epoch: 63
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.39it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1151 (5.2019)
+  loss_ce: 0.6196 (0.6327)
+  loss_bbox: 1.3082 (1.3352)
+  loss_giou: 3.2732 (3.2340)
+  loss_ce_unscaled: 0.6196 (0.6327)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2616 (0.2670)
+  loss_giou_unscaled: 1.6366 (1.6170)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00018359451839223658
+Finish epoch: 64
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1792 (5.2485)
+  loss_ce: 0.6202 (0.6332)
+  loss_bbox: 1.3586 (1.3553)
+  loss_giou: 3.3039 (3.2601)
+  loss_ce_unscaled: 0.6202 (0.6332)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2717 (0.2711)
+  loss_giou_unscaled: 1.6520 (1.6300)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0002874480996486745
+Finish epoch: 65
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.62it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2773 (5.3052)
+  loss_ce: 0.6205 (0.6331)
+  loss_bbox: 1.3909 (1.3952)
+  loss_giou: 3.3267 (3.2768)
+  loss_ce_unscaled: 0.6205 (0.6331)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2782 (0.2790)
+  loss_giou_unscaled: 1.6634 (1.6384)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 66
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1104 (5.1796)
+  loss_ce: 0.6179 (0.6317)
+  loss_bbox: 1.3112 (1.3181)
+  loss_giou: 3.2547 (3.2298)
+  loss_ce_unscaled: 0.6179 (0.6317)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2622 (0.2636)
+  loss_giou_unscaled: 1.6274 (1.6149)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.017886202018240642
+Finish epoch: 67
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1804 (5.2317)
+  loss_ce: 0.6201 (0.6329)
+  loss_bbox: 1.3460 (1.3496)
+  loss_giou: 3.2885 (3.2492)
+  loss_ce_unscaled: 0.6201 (0.6329)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2692 (0.2699)
+  loss_giou_unscaled: 1.6443 (1.6246)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00017645328889324575
+Finish epoch: 68
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.64it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1668 (5.2344)
+  loss_ce: 0.6187 (0.6326)
+  loss_bbox: 1.3436 (1.3492)
+  loss_giou: 3.2826 (3.2527)
+  loss_ce_unscaled: 0.6187 (0.6326)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2687 (0.2698)
+  loss_giou_unscaled: 1.6413 (1.6263)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00017645328889324575
+Finish epoch: 69
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.55it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2342 (5.2881)
+  loss_ce: 0.6195 (0.6333)
+  loss_bbox: 1.3814 (1.3762)
+  loss_giou: 3.3389 (3.2785)
+  loss_ce_unscaled: 0.6195 (0.6333)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2763 (0.2752)
+  loss_giou_unscaled: 1.6695 (1.6393)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.017821782178217817
+Finish epoch: 70
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.66it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1702 (5.2199)
+  loss_ce: 0.6210 (0.6344)
+  loss_bbox: 1.3328 (1.3358)
+  loss_giou: 3.2666 (3.2498)
+  loss_ce_unscaled: 0.6210 (0.6344)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2666 (0.2672)
+  loss_giou_unscaled: 1.6333 (1.6249)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0008386176484201755
+Finish epoch: 71
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.69it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2044 (5.2563)
+  loss_ce: 0.6176 (0.6311)
+  loss_bbox: 1.3557 (1.3581)
+  loss_giou: 3.3106 (3.2671)
+  loss_ce_unscaled: 0.6176 (0.6311)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2711 (0.2716)
+  loss_giou_unscaled: 1.6553 (1.6335)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00017645328889324575
+Finish epoch: 72
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.39it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2117 (5.2548)
+  loss_ce: 0.6140 (0.6290)
+  loss_bbox: 1.3709 (1.3555)
+  loss_giou: 3.2883 (3.2704)
+  loss_ce_unscaled: 0.6140 (0.6290)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2742 (0.2711)
+  loss_giou_unscaled: 1.6442 (1.6352)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.017821782178217817
+Finish epoch: 73
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.53it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2117 (5.2487)
+  loss_ce: 0.6203 (0.6335)
+  loss_bbox: 1.3538 (1.3513)
+  loss_giou: 3.2867 (3.2639)
+  loss_ce_unscaled: 0.6203 (0.6335)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2708 (0.2703)
+  loss_giou_unscaled: 1.6434 (1.6319)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 74
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.46it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.1503 (5.1990)
+  loss_ce: 0.6175 (0.6324)
+  loss_bbox: 1.3279 (1.3199)
+  loss_giou: 3.2448 (3.2467)
+  loss_ce_unscaled: 0.6175 (0.6324)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2656 (0.2640)
+  loss_giou_unscaled: 1.6224 (1.6234)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0003656872293521381
+Finish epoch: 75
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2503 (5.2790)
+  loss_ce: 0.6162 (0.6307)
+  loss_bbox: 1.3774 (1.3659)
+  loss_giou: 3.3078 (3.2825)
+  loss_ce_unscaled: 0.6162 (0.6307)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2755 (0.2732)
+  loss_giou_unscaled: 1.6539 (1.6413)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00017645328889324575
+Finish epoch: 76
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.51it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3632 (5.3862)
+  loss_ce: 0.6183 (0.6327)
+  loss_bbox: 1.4372 (1.4261)
+  loss_giou: 3.3744 (3.3274)
+  loss_ce_unscaled: 0.6183 (0.6327)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2874 (0.2852)
+  loss_giou_unscaled: 1.6872 (1.6637)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0005897024823702588
+Finish epoch: 77
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.46it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2736 (5.2958)
+  loss_ce: 0.6182 (0.6325)
+  loss_bbox: 1.3882 (1.3686)
+  loss_giou: 3.3126 (3.2947)
+  loss_ce_unscaled: 0.6182 (0.6325)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2776 (0.2737)
+  loss_giou_unscaled: 1.6563 (1.6473)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00017645328889324575
+Finish epoch: 78
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.47it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2610 (5.2802)
+  loss_ce: 0.6186 (0.6329)
+  loss_bbox: 1.3786 (1.3596)
+  loss_giou: 3.3021 (3.2878)
+  loss_ce_unscaled: 0.6186 (0.6329)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2757 (0.2719)
+  loss_giou_unscaled: 1.6510 (1.6439)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 79
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.46it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2271 (5.2552)
+  loss_ce: 0.6137 (0.6306)
+  loss_bbox: 1.3597 (1.3465)
+  loss_giou: 3.2961 (3.2781)
+  loss_ce_unscaled: 0.6137 (0.6306)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2719 (0.2693)
+  loss_giou_unscaled: 1.6480 (1.6391)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.017821782178217817
+Finish epoch: 80
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.38it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2209 (5.2616)
+  loss_ce: 0.6211 (0.6354)
+  loss_bbox: 1.3637 (1.3480)
+  loss_giou: 3.2842 (3.2782)
+  loss_ce_unscaled: 0.6211 (0.6354)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2727 (0.2696)
+  loss_giou_unscaled: 1.6421 (1.6391)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00017645328889324575
+Finish epoch: 81
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.43it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2547 (5.2672)
+  loss_ce: 0.6122 (0.6297)
+  loss_bbox: 1.3677 (1.3505)
+  loss_giou: 3.3185 (3.2871)
+  loss_ce_unscaled: 0.6122 (0.6297)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2735 (0.2701)
+  loss_giou_unscaled: 1.6593 (1.6435)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.017821782178217817
+Finish epoch: 82
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2487 (5.2873)
+  loss_ce: 0.6201 (0.6343)
+  loss_bbox: 1.3893 (1.3689)
+  loss_giou: 3.3189 (3.2841)
+  loss_ce_unscaled: 0.6201 (0.6343)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2779 (0.2738)
+  loss_giou_unscaled: 1.6595 (1.6421)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 6.200200143690002e-05
+Finish epoch: 83
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.67it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3826 (5.4041)
+  loss_ce: 0.6177 (0.6315)
+  loss_bbox: 1.4515 (1.4258)
+  loss_giou: 3.3843 (3.3468)
+  loss_ce_unscaled: 0.6177 (0.6315)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2903 (0.2852)
+  loss_giou_unscaled: 1.6921 (1.6734)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00046814190715017864
+Finish epoch: 84
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.49it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3853 (5.3594)
+  loss_ce: 0.6164 (0.6304)
+  loss_bbox: 1.4162 (1.4012)
+  loss_giou: 3.3614 (3.3278)
+  loss_ce_unscaled: 0.6164 (0.6304)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2832 (0.2802)
+  loss_giou_unscaled: 1.6807 (1.6639)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 3.940692576720359e-05
+Finish epoch: 85
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.49it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2718 (5.2813)
+  loss_ce: 0.6170 (0.6319)
+  loss_bbox: 1.3760 (1.3557)
+  loss_giou: 3.3274 (3.2937)
+  loss_ce_unscaled: 0.6170 (0.6319)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2752 (0.2711)
+  loss_giou_unscaled: 1.6637 (1.6468)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 2.0247423515357673e-05
+Finish epoch: 86
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.52it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3920 (5.3871)
+  loss_ce: 0.6191 (0.6333)
+  loss_bbox: 1.4310 (1.4103)
+  loss_giou: 3.3805 (3.3436)
+  loss_ce_unscaled: 0.6191 (0.6333)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2862 (0.2821)
+  loss_giou_unscaled: 1.6902 (1.6718)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 7.842368395255367e-05
+Finish epoch: 87
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3693 (5.3407)
+  loss_ce: 0.6158 (0.6298)
+  loss_bbox: 1.4012 (1.3854)
+  loss_giou: 3.3688 (3.3255)
+  loss_ce_unscaled: 0.6158 (0.6298)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2802 (0.2771)
+  loss_giou_unscaled: 1.6844 (1.6627)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 3.9603960396039605e-05
+Finish epoch: 88
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:08<00:00,  2.82it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3782 (5.3395)
+  loss_ce: 0.6171 (0.6312)
+  loss_bbox: 1.4030 (1.3834)
+  loss_giou: 3.3682 (3.3249)
+  loss_ce_unscaled: 0.6171 (0.6312)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2806 (0.2767)
+  loss_giou_unscaled: 1.6841 (1.6625)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.017867303971776483
+Finish epoch: 89
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3329 (5.3208)
+  loss_ce: 0.6163 (0.6305)
+  loss_bbox: 1.3941 (1.3729)
+  loss_giou: 3.3652 (3.3174)
+  loss_ce_unscaled: 0.6163 (0.6305)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2788 (0.2746)
+  loss_giou_unscaled: 1.6826 (1.6587)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.017886706703457225
+Finish epoch: 90
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.43it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2634 (5.2547)
+  loss_ce: 0.6150 (0.6303)
+  loss_bbox: 1.3641 (1.3395)
+  loss_giou: 3.3263 (3.2849)
+  loss_ce_unscaled: 0.6150 (0.6303)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2728 (0.2679)
+  loss_giou_unscaled: 1.6631 (1.6424)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.017845412226186814
+Finish epoch: 91
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.49it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2256 (5.2446)
+  loss_ce: 0.6159 (0.6314)
+  loss_bbox: 1.3618 (1.3330)
+  loss_giou: 3.3119 (3.2802)
+  loss_ce_unscaled: 0.6159 (0.6314)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2724 (0.2666)
+  loss_giou_unscaled: 1.6559 (1.6401)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0002002447435754811
+Finish epoch: 92
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.43it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3775 (5.3801)
+  loss_ce: 0.6200 (0.6339)
+  loss_bbox: 1.4265 (1.4050)
+  loss_giou: 3.3941 (3.3412)
+  loss_ce_unscaled: 0.6200 (0.6339)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2853 (0.2810)
+  loss_giou_unscaled: 1.6971 (1.6706)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0005582447607444438
+Finish epoch: 93
+100%|██████████| 57/57 [00:48<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3137 (5.2994)
+  loss_ce: 0.6168 (0.6312)
+  loss_bbox: 1.3886 (1.3610)
+  loss_giou: 3.3540 (3.3072)
+  loss_ce_unscaled: 0.6168 (0.6312)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2777 (0.2722)
+  loss_giou_unscaled: 1.6770 (1.6536)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.004455445544554455
+Finish epoch: 94
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.39it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2786 (5.2828)
+  loss_ce: 0.6144 (0.6294)
+  loss_bbox: 1.3780 (1.3535)
+  loss_giou: 3.3493 (3.2998)
+  loss_ce_unscaled: 0.6144 (0.6294)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2756 (0.2707)
+  loss_giou_unscaled: 1.6747 (1.6499)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.005940594059405941
+Finish epoch: 95
+100%|██████████| 57/57 [00:48<00:00,  1.18it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.69it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4126 (5.4087)
+  loss_ce: 0.6168 (0.6315)
+  loss_bbox: 1.4371 (1.4175)
+  loss_giou: 3.4092 (3.3597)
+  loss_ce_unscaled: 0.6168 (0.6315)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2874 (0.2835)
+  loss_giou_unscaled: 1.7046 (1.6799)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 4.3283016826272796e-05
+Finish epoch: 96
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.46it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3978 (5.3776)
+  loss_ce: 0.6148 (0.6300)
+  loss_bbox: 1.4232 (1.4017)
+  loss_giou: 3.3793 (3.3459)
+  loss_ce_unscaled: 0.6148 (0.6300)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2846 (0.2803)
+  loss_giou_unscaled: 1.6896 (1.6730)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00894100816925799
+Finish epoch: 97
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3036 (5.2829)
+  loss_ce: 0.6154 (0.6310)
+  loss_bbox: 1.3836 (1.3508)
+  loss_giou: 3.3586 (3.3011)
+  loss_ce_unscaled: 0.6154 (0.6310)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2767 (0.2702)
+  loss_giou_unscaled: 1.6793 (1.6506)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.017849909990999092
+Finish epoch: 98
+100%|██████████| 57/57 [00:48<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3217 (5.3126)
+  loss_ce: 0.6182 (0.6329)
+  loss_bbox: 1.3937 (1.3697)
+  loss_giou: 3.3517 (3.3100)
+  loss_ce_unscaled: 0.6182 (0.6329)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2787 (0.2739)
+  loss_giou_unscaled: 1.6758 (1.6550)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 99
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.63it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2397 (5.2410)
+  loss_ce: 0.6172 (0.6329)
+  loss_bbox: 1.3531 (1.3274)
+  loss_giou: 3.3259 (3.2807)
+  loss_ce_unscaled: 0.6172 (0.6329)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2706 (0.2655)
+  loss_giou_unscaled: 1.6630 (1.6403)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0002744828938339379
+Finish epoch: 100
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4193 (5.4208)
+  loss_ce: 0.6130 (0.6303)
+  loss_bbox: 1.4482 (1.4235)
+  loss_giou: 3.4138 (3.3671)
+  loss_ce_unscaled: 0.6130 (0.6303)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2896 (0.2847)
+  loss_giou_unscaled: 1.7069 (1.6836)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0004271015336827801
+Finish epoch: 101
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.56it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4365 (5.4233)
+  loss_ce: 0.6108 (0.6297)
+  loss_bbox: 1.4535 (1.4257)
+  loss_giou: 3.4035 (3.3678)
+  loss_ce_unscaled: 0.6108 (0.6297)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2907 (0.2851)
+  loss_giou_unscaled: 1.7018 (1.6839)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.9567174108715215e-05
+Finish epoch: 102
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.35it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2860 (5.2901)
+  loss_ce: 0.6139 (0.6293)
+  loss_bbox: 1.3830 (1.3549)
+  loss_giou: 3.3479 (3.3058)
+  loss_ce_unscaled: 0.6139 (0.6293)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2766 (0.2710)
+  loss_giou_unscaled: 1.6740 (1.6529)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0003910495840003162
+Finish epoch: 103
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3551 (5.3594)
+  loss_ce: 0.6179 (0.6328)
+  loss_bbox: 1.4113 (1.3938)
+  loss_giou: 3.3687 (3.3328)
+  loss_ce_unscaled: 0.6179 (0.6328)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2823 (0.2788)
+  loss_giou_unscaled: 1.6843 (1.6664)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.9762455287444913e-05
+Finish epoch: 104
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.53it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2954 (5.3016)
+  loss_ce: 0.6173 (0.6325)
+  loss_bbox: 1.3825 (1.3628)
+  loss_giou: 3.3341 (3.3063)
+  loss_ce_unscaled: 0.6173 (0.6325)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2765 (0.2726)
+  loss_giou_unscaled: 1.6670 (1.6532)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 105
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.72it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3484 (5.3248)
+  loss_ce: 0.6106 (0.6290)
+  loss_bbox: 1.3984 (1.3720)
+  loss_giou: 3.3522 (3.3238)
+  loss_ce_unscaled: 0.6106 (0.6290)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2797 (0.2744)
+  loss_giou_unscaled: 1.6761 (1.6619)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00020989804318364283
+Finish epoch: 106
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.48it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3933 (5.3925)
+  loss_ce: 0.6176 (0.6328)
+  loss_bbox: 1.4268 (1.4051)
+  loss_giou: 3.3927 (3.3545)
+  loss_ce_unscaled: 0.6176 (0.6328)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2854 (0.2810)
+  loss_giou_unscaled: 1.6964 (1.6773)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.01784154463350526
+Finish epoch: 107
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4020 (5.4047)
+  loss_ce: 0.6180 (0.6333)
+  loss_bbox: 1.4323 (1.4139)
+  loss_giou: 3.4053 (3.3575)
+  loss_ce_unscaled: 0.6180 (0.6333)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2865 (0.2828)
+  loss_giou_unscaled: 1.7026 (1.6787)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0005257824981247392
+Finish epoch: 108
+100%|██████████| 57/57 [00:48<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.54it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4393 (5.4257)
+  loss_ce: 0.6158 (0.6313)
+  loss_bbox: 1.4450 (1.4244)
+  loss_giou: 3.4067 (3.3700)
+  loss_ce_unscaled: 0.6158 (0.6313)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2890 (0.2849)
+  loss_giou_unscaled: 1.7034 (1.6850)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 109
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.43it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3555 (5.3673)
+  loss_ce: 0.6148 (0.6300)
+  loss_bbox: 1.4217 (1.3934)
+  loss_giou: 3.3913 (3.3440)
+  loss_ce_unscaled: 0.6148 (0.6300)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2843 (0.2787)
+  loss_giou_unscaled: 1.6957 (1.6720)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.017941386550470066
+Finish epoch: 110
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.67it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3285 (5.3105)
+  loss_ce: 0.6161 (0.6323)
+  loss_bbox: 1.3894 (1.3640)
+  loss_giou: 3.3535 (3.3142)
+  loss_ce_unscaled: 0.6161 (0.6323)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2779 (0.2728)
+  loss_giou_unscaled: 1.6767 (1.6571)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.027722772277227727
+Finish epoch: 111
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.43it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4131 (5.4032)
+  loss_ce: 0.6171 (0.6321)
+  loss_bbox: 1.4298 (1.4121)
+  loss_giou: 3.4088 (3.3590)
+  loss_ce_unscaled: 0.6171 (0.6321)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2860 (0.2824)
+  loss_giou_unscaled: 1.7044 (1.6795)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.008930653544396355
+Finish epoch: 112
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3747 (5.3829)
+  loss_ce: 0.6177 (0.6333)
+  loss_bbox: 1.4244 (1.3983)
+  loss_giou: 3.4002 (3.3514)
+  loss_ce_unscaled: 0.6177 (0.6333)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2849 (0.2797)
+  loss_giou_unscaled: 1.7001 (1.6757)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.01784154463350526
+Finish epoch: 113
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.49it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3212 (5.3151)
+  loss_ce: 0.6155 (0.6320)
+  loss_bbox: 1.3986 (1.3646)
+  loss_giou: 3.3536 (3.3185)
+  loss_ce_unscaled: 0.6155 (0.6320)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2797 (0.2729)
+  loss_giou_unscaled: 1.6768 (1.6592)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.004455445544554455
+Finish epoch: 114
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3009 (5.2833)
+  loss_ce: 0.6136 (0.6300)
+  loss_bbox: 1.3853 (1.3510)
+  loss_giou: 3.3184 (3.3023)
+  loss_ce_unscaled: 0.6136 (0.6300)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2771 (0.2702)
+  loss_giou_unscaled: 1.6592 (1.6512)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 4.2389560056923123e-05
+Finish epoch: 115
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.37it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3625 (5.3384)
+  loss_ce: 0.6136 (0.6310)
+  loss_bbox: 1.3990 (1.3757)
+  loss_giou: 3.3753 (3.3317)
+  loss_ce_unscaled: 0.6136 (0.6310)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2798 (0.2751)
+  loss_giou_unscaled: 1.6876 (1.6659)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.01784154463350526
+Finish epoch: 116
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4068 (5.4152)
+  loss_ce: 0.6127 (0.6325)
+  loss_bbox: 1.4280 (1.4150)
+  loss_giou: 3.4158 (3.3677)
+  loss_ce_unscaled: 0.6127 (0.6325)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2856 (0.2830)
+  loss_giou_unscaled: 1.7079 (1.6839)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0001176355259288305
+Finish epoch: 117
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.43it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3832 (5.3903)
+  loss_ce: 0.6156 (0.6335)
+  loss_bbox: 1.4184 (1.4058)
+  loss_giou: 3.3960 (3.3510)
+  loss_ce_unscaled: 0.6156 (0.6335)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2837 (0.2812)
+  loss_giou_unscaled: 1.6980 (1.6755)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0005257824981247392
+Finish epoch: 118
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3486 (5.3326)
+  loss_ce: 0.6161 (0.6335)
+  loss_bbox: 1.3958 (1.3785)
+  loss_giou: 3.3545 (3.3206)
+  loss_ce_unscaled: 0.6161 (0.6335)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2792 (0.2757)
+  loss_giou_unscaled: 1.6773 (1.6603)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 119
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.51it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2394 (5.2414)
+  loss_ce: 0.6133 (0.6319)
+  loss_bbox: 1.3463 (1.3331)
+  loss_giou: 3.2794 (3.2764)
+  loss_ce_unscaled: 0.6133 (0.6319)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2693 (0.2666)
+  loss_giou_unscaled: 1.6397 (1.6382)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0001851843519556182
+Finish epoch: 120
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.68it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4754 (5.4102)
+  loss_ce: 0.6093 (0.6293)
+  loss_bbox: 1.4485 (1.4196)
+  loss_giou: 3.3831 (3.3614)
+  loss_ce_unscaled: 0.6093 (0.6293)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2897 (0.2839)
+  loss_giou_unscaled: 1.6915 (1.6807)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.724911167074896e-05
+Finish epoch: 121
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4296 (5.4080)
+  loss_ce: 0.6147 (0.6314)
+  loss_bbox: 1.4297 (1.4144)
+  loss_giou: 3.3900 (3.3621)
+  loss_ce_unscaled: 0.6147 (0.6314)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2859 (0.2829)
+  loss_giou_unscaled: 1.6950 (1.6811)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.3547534913126432e-05
+Finish epoch: 122
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3478 (5.3173)
+  loss_ce: 0.6120 (0.6312)
+  loss_bbox: 1.3837 (1.3624)
+  loss_giou: 3.3434 (3.3237)
+  loss_ce_unscaled: 0.6120 (0.6312)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2767 (0.2725)
+  loss_giou_unscaled: 1.6717 (1.6618)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 8.155112340462329e-05
+Finish epoch: 123
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2990 (5.3024)
+  loss_ce: 0.6133 (0.6294)
+  loss_bbox: 1.3623 (1.3550)
+  loss_giou: 3.3415 (3.3180)
+  loss_ce_unscaled: 0.6133 (0.6294)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2725 (0.2710)
+  loss_giou_unscaled: 1.6707 (1.6590)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00038807456164610877
+Finish epoch: 124
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.38it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3136 (5.3308)
+  loss_ce: 0.6164 (0.6332)
+  loss_bbox: 1.3790 (1.3732)
+  loss_giou: 3.3499 (3.3245)
+  loss_ce_unscaled: 0.6164 (0.6332)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2758 (0.2746)
+  loss_giou_unscaled: 1.6750 (1.6622)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 125
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.43it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4596 (5.4044)
+  loss_ce: 0.6098 (0.6291)
+  loss_bbox: 1.4386 (1.4133)
+  loss_giou: 3.3825 (3.3620)
+  loss_ce_unscaled: 0.6098 (0.6291)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2877 (0.2827)
+  loss_giou_unscaled: 1.6913 (1.6810)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0022474852275646724
+Finish epoch: 126
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.38it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3416 (5.3389)
+  loss_ce: 0.6137 (0.6299)
+  loss_bbox: 1.3895 (1.3731)
+  loss_giou: 3.3693 (3.3359)
+  loss_ce_unscaled: 0.6137 (0.6299)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2779 (0.2746)
+  loss_giou_unscaled: 1.6847 (1.6679)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00012951747433676366
+Finish epoch: 127
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.69it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.5051 (5.4623)
+  loss_ce: 0.6122 (0.6293)
+  loss_bbox: 1.4561 (1.4429)
+  loss_giou: 3.4155 (3.3900)
+  loss_ce_unscaled: 0.6122 (0.6293)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2912 (0.2886)
+  loss_giou_unscaled: 1.7078 (1.6950)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.9762455287444913e-05
+Finish epoch: 128
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2953 (5.3000)
+  loss_ce: 0.6130 (0.6312)
+  loss_bbox: 1.3698 (1.3538)
+  loss_giou: 3.3271 (3.3150)
+  loss_ce_unscaled: 0.6130 (0.6312)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2740 (0.2708)
+  loss_giou_unscaled: 1.6635 (1.6575)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 6.3006300630063e-05
+Finish epoch: 129
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.35it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3020 (5.3203)
+  loss_ce: 0.6154 (0.6323)
+  loss_bbox: 1.3762 (1.3682)
+  loss_giou: 3.3403 (3.3198)
+  loss_ce_unscaled: 0.6154 (0.6323)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2752 (0.2736)
+  loss_giou_unscaled: 1.6702 (1.6599)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 130
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3646 (5.3306)
+  loss_ce: 0.6125 (0.6307)
+  loss_bbox: 1.3965 (1.3713)
+  loss_giou: 3.3545 (3.3286)
+  loss_ce_unscaled: 0.6125 (0.6307)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2793 (0.2743)
+  loss_giou_unscaled: 1.6773 (1.6643)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.017840016045803472
+Finish epoch: 131
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2683 (5.2701)
+  loss_ce: 0.6157 (0.6337)
+  loss_bbox: 1.3575 (1.3414)
+  loss_giou: 3.2978 (3.2950)
+  loss_ce_unscaled: 0.6157 (0.6337)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2715 (0.2683)
+  loss_giou_unscaled: 1.6489 (1.6475)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00014016147770243634
+Finish epoch: 132
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3293 (5.3027)
+  loss_ce: 0.6157 (0.6328)
+  loss_bbox: 1.3695 (1.3543)
+  loss_giou: 3.3374 (3.3157)
+  loss_ce_unscaled: 0.6157 (0.6328)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2739 (0.2709)
+  loss_giou_unscaled: 1.6687 (1.6579)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00011737785062979606
+Finish epoch: 133
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.43it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3482 (5.3244)
+  loss_ce: 0.6151 (0.6318)
+  loss_bbox: 1.3832 (1.3652)
+  loss_giou: 3.3625 (3.3274)
+  loss_ce_unscaled: 0.6151 (0.6318)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2766 (0.2730)
+  loss_giou_unscaled: 1.6812 (1.6637)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.000117792060228137
+Finish epoch: 134
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4124 (5.3714)
+  loss_ce: 0.6136 (0.6310)
+  loss_bbox: 1.4273 (1.3968)
+  loss_giou: 3.3663 (3.3436)
+  loss_ce_unscaled: 0.6136 (0.6310)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2855 (0.2794)
+  loss_giou_unscaled: 1.6831 (1.6718)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 2.3063870446944862e-05
+Finish epoch: 135
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.57it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4722 (5.4657)
+  loss_ce: 0.6162 (0.6329)
+  loss_bbox: 1.4553 (1.4437)
+  loss_giou: 3.4283 (3.3891)
+  loss_ce_unscaled: 0.6162 (0.6329)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2911 (0.2887)
+  loss_giou_unscaled: 1.7141 (1.6946)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0005257824981247392
+Finish epoch: 136
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.48it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3013 (5.3014)
+  loss_ce: 0.6176 (0.6346)
+  loss_bbox: 1.3610 (1.3552)
+  loss_giou: 3.3083 (3.3115)
+  loss_ce_unscaled: 0.6176 (0.6346)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2722 (0.2710)
+  loss_giou_unscaled: 1.6542 (1.6558)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 5.7755775577557755e-05
+Finish epoch: 137
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4106 (5.3975)
+  loss_ce: 0.6136 (0.6303)
+  loss_bbox: 1.4324 (1.4152)
+  loss_giou: 3.3692 (3.3520)
+  loss_ce_unscaled: 0.6136 (0.6303)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2865 (0.2830)
+  loss_giou_unscaled: 1.6846 (1.6760)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.7803978200017805e-05
+Finish epoch: 138
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4111 (5.3731)
+  loss_ce: 0.6148 (0.6332)
+  loss_bbox: 1.4116 (1.3934)
+  loss_giou: 3.3675 (3.3465)
+  loss_ce_unscaled: 0.6148 (0.6332)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2823 (0.2787)
+  loss_giou_unscaled: 1.6837 (1.6733)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 9.802960494069208e-05
+Finish epoch: 139
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.76it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3633 (5.3748)
+  loss_ce: 0.6175 (0.6341)
+  loss_bbox: 1.3968 (1.3945)
+  loss_giou: 3.3787 (3.3462)
+  loss_ce_unscaled: 0.6175 (0.6341)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2794 (0.2789)
+  loss_giou_unscaled: 1.6893 (1.6731)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00015565839782287494
+Finish epoch: 140
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.63it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.5764 (5.5110)
+  loss_ce: 0.6116 (0.6299)
+  loss_bbox: 1.4775 (1.4730)
+  loss_giou: 3.4266 (3.4082)
+  loss_ce_unscaled: 0.6116 (0.6299)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2955 (0.2946)
+  loss_giou_unscaled: 1.7133 (1.7041)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 141
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.74it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2899 (5.2884)
+  loss_ce: 0.6152 (0.6323)
+  loss_bbox: 1.3639 (1.3529)
+  loss_giou: 3.2896 (3.3032)
+  loss_ce_unscaled: 0.6152 (0.6323)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2728 (0.2706)
+  loss_giou_unscaled: 1.6448 (1.6516)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0001506594526430703
+Finish epoch: 142
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.43it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4127 (5.3589)
+  loss_ce: 0.6139 (0.6313)
+  loss_bbox: 1.4109 (1.3892)
+  loss_giou: 3.3455 (3.3384)
+  loss_ce_unscaled: 0.6139 (0.6313)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2822 (0.2778)
+  loss_giou_unscaled: 1.6728 (1.6692)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.9644821625019645e-05
+Finish epoch: 143
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.48it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3177 (5.2967)
+  loss_ce: 0.6144 (0.6315)
+  loss_bbox: 1.3730 (1.3534)
+  loss_giou: 3.3117 (3.3118)
+  loss_ce_unscaled: 0.6144 (0.6315)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2746 (0.2707)
+  loss_giou_unscaled: 1.6558 (1.6559)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.7219113215669393e-05
+Finish epoch: 144
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.60it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3801 (5.3282)
+  loss_ce: 0.6098 (0.6299)
+  loss_bbox: 1.3954 (1.3707)
+  loss_giou: 3.3443 (3.3276)
+  loss_ce_unscaled: 0.6098 (0.6299)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2791 (0.2741)
+  loss_giou_unscaled: 1.6722 (1.6638)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 6.252530991597011e-05
+Finish epoch: 145
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4073 (5.3602)
+  loss_ce: 0.6132 (0.6315)
+  loss_bbox: 1.4042 (1.3859)
+  loss_giou: 3.3611 (3.3429)
+  loss_ce_unscaled: 0.6132 (0.6315)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2808 (0.2772)
+  loss_giou_unscaled: 1.6805 (1.6714)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00011461417797085943
+Finish epoch: 146
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4928 (5.4172)
+  loss_ce: 0.6078 (0.6297)
+  loss_bbox: 1.4393 (1.4214)
+  loss_giou: 3.3912 (3.3661)
+  loss_ce_unscaled: 0.6078 (0.6297)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2879 (0.2843)
+  loss_giou_unscaled: 1.6956 (1.6831)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00043333836696908437
+Finish epoch: 147
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.49it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.2988 (5.3095)
+  loss_ce: 0.6132 (0.6310)
+  loss_bbox: 1.3860 (1.3616)
+  loss_giou: 3.3154 (3.3169)
+  loss_ce_unscaled: 0.6132 (0.6310)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2772 (0.2723)
+  loss_giou_unscaled: 1.6577 (1.6585)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.8335166850018336e-05
+Finish epoch: 148
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4117 (5.3810)
+  loss_ce: 0.6092 (0.6288)
+  loss_bbox: 1.4124 (1.3988)
+  loss_giou: 3.3835 (3.3534)
+  loss_ce_unscaled: 0.6092 (0.6288)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2825 (0.2798)
+  loss_giou_unscaled: 1.6918 (1.6767)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 9.802960494069208e-05
+Finish epoch: 149
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3810 (5.3351)
+  loss_ce: 0.6137 (0.6316)
+  loss_bbox: 1.3970 (1.3761)
+  loss_giou: 3.3273 (3.3274)
+  loss_ce_unscaled: 0.6137 (0.6316)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2794 (0.2752)
+  loss_giou_unscaled: 1.6637 (1.6637)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.9762455287444913e-05
+Finish epoch: 150
+100%|██████████| 57/57 [00:48<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3341 (5.3663)
+  loss_ce: 0.6127 (0.6309)
+  loss_bbox: 1.4125 (1.3996)
+  loss_giou: 3.3488 (3.3358)
+  loss_ce_unscaled: 0.6127 (0.6309)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2825 (0.2799)
+  loss_giou_unscaled: 1.6744 (1.6679)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.6474193176389187e-05
+Finish epoch: 151
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.50it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4800 (5.4254)
+  loss_ce: 0.6126 (0.6314)
+  loss_bbox: 1.4387 (1.4247)
+  loss_giou: 3.3975 (3.3693)
+  loss_ce_unscaled: 0.6126 (0.6314)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2877 (0.2849)
+  loss_giou_unscaled: 1.6987 (1.6847)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0004075561475413089
+Finish epoch: 152
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4749 (5.4185)
+  loss_ce: 0.6152 (0.6331)
+  loss_bbox: 1.4419 (1.4217)
+  loss_giou: 3.3940 (3.3637)
+  loss_ce_unscaled: 0.6152 (0.6331)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2884 (0.2843)
+  loss_giou_unscaled: 1.6970 (1.6818)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0001818549201858961
+Finish epoch: 153
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4749 (5.4250)
+  loss_ce: 0.6131 (0.6308)
+  loss_bbox: 1.4480 (1.4240)
+  loss_giou: 3.4014 (3.3702)
+  loss_ce_unscaled: 0.6131 (0.6308)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2896 (0.2848)
+  loss_giou_unscaled: 1.7007 (1.6851)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 9.802960494069208e-05
+Finish epoch: 154
+100%|██████████| 57/57 [00:48<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.62it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3974 (5.3864)
+  loss_ce: 0.6144 (0.6323)
+  loss_bbox: 1.4226 (1.4014)
+  loss_giou: 3.3761 (3.3527)
+  loss_ce_unscaled: 0.6144 (0.6323)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2845 (0.2803)
+  loss_giou_unscaled: 1.6880 (1.6763)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00011488570481149661
+Finish epoch: 155
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.59it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4634 (5.4804)
+  loss_ce: 0.6115 (0.6349)
+  loss_bbox: 1.4839 (1.4621)
+  loss_giou: 3.4031 (3.3834)
+  loss_ce_unscaled: 0.6115 (0.6349)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2968 (0.2924)
+  loss_giou_unscaled: 1.7016 (1.6917)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.85411799606927e-05
+Finish epoch: 156
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4547 (5.4048)
+  loss_ce: 0.6083 (0.6295)
+  loss_bbox: 1.4397 (1.4181)
+  loss_giou: 3.3780 (3.3571)
+  loss_ce_unscaled: 0.6083 (0.6295)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2879 (0.2836)
+  loss_giou_unscaled: 1.6890 (1.6786)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00012340260188809578
+Finish epoch: 157
+100%|██████████| 57/57 [00:48<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.51it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3808 (5.3711)
+  loss_ce: 0.6132 (0.6319)
+  loss_bbox: 1.4149 (1.3931)
+  loss_giou: 3.3559 (3.3461)
+  loss_ce_unscaled: 0.6132 (0.6319)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2830 (0.2786)
+  loss_giou_unscaled: 1.6780 (1.6730)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00030274345263983757
+Finish epoch: 158
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.53it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4094 (5.3882)
+  loss_ce: 0.6130 (0.6305)
+  loss_bbox: 1.4307 (1.4015)
+  loss_giou: 3.3688 (3.3562)
+  loss_ce_unscaled: 0.6130 (0.6305)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2861 (0.2803)
+  loss_giou_unscaled: 1.6844 (1.6781)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 159
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.58it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3465 (5.3353)
+  loss_ce: 0.6150 (0.6322)
+  loss_bbox: 1.3872 (1.3765)
+  loss_giou: 3.3263 (3.3266)
+  loss_ce_unscaled: 0.6150 (0.6322)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2774 (0.2753)
+  loss_giou_unscaled: 1.6631 (1.6633)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00012159110647906897
+Finish epoch: 160
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3393 (5.3253)
+  loss_ce: 0.6130 (0.6301)
+  loss_bbox: 1.4114 (1.3792)
+  loss_giou: 3.3267 (3.3159)
+  loss_ce_unscaled: 0.6130 (0.6301)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2823 (0.2758)
+  loss_giou_unscaled: 1.6634 (1.6579)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 4.939530497900288e-05
+Finish epoch: 161
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.70it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3343 (5.3712)
+  loss_ce: 0.6151 (0.6357)
+  loss_bbox: 1.4196 (1.4129)
+  loss_giou: 3.3235 (3.3226)
+  loss_ce_unscaled: 0.6151 (0.6357)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2839 (0.2826)
+  loss_giou_unscaled: 1.6617 (1.6613)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.6474193176389187e-05
+Finish epoch: 162
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.51it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4857 (5.4193)
+  loss_ce: 0.6097 (0.6305)
+  loss_bbox: 1.4641 (1.4248)
+  loss_giou: 3.3954 (3.3640)
+  loss_ce_unscaled: 0.6097 (0.6305)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2928 (0.2850)
+  loss_giou_unscaled: 1.6977 (1.6820)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 8.418534797871973e-05
+Finish epoch: 163
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.67it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.5406 (5.4624)
+  loss_ce: 0.6151 (0.6325)
+  loss_bbox: 1.4721 (1.4464)
+  loss_giou: 3.4230 (3.3835)
+  loss_ce_unscaled: 0.6151 (0.6325)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2944 (0.2893)
+  loss_giou_unscaled: 1.7115 (1.6917)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00016353415552688964
+Finish epoch: 164
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.38it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3457 (5.3313)
+  loss_ce: 0.6139 (0.6312)
+  loss_bbox: 1.3980 (1.3749)
+  loss_giou: 3.3267 (3.3251)
+  loss_ce_unscaled: 0.6139 (0.6312)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2796 (0.2750)
+  loss_giou_unscaled: 1.6633 (1.6626)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00020199482473184515
+Finish epoch: 165
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3526 (5.3534)
+  loss_ce: 0.6127 (0.6331)
+  loss_bbox: 1.4030 (1.3885)
+  loss_giou: 3.3288 (3.3318)
+  loss_ce_unscaled: 0.6127 (0.6331)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2806 (0.2777)
+  loss_giou_unscaled: 1.6644 (1.6659)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 9.706853038245001e-05
+Finish epoch: 166
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.40it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3803 (5.3237)
+  loss_ce: 0.6107 (0.6299)
+  loss_bbox: 1.4080 (1.3736)
+  loss_giou: 3.3395 (3.3202)
+  loss_ce_unscaled: 0.6107 (0.6299)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2816 (0.2747)
+  loss_giou_unscaled: 1.6697 (1.6601)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.9762455287444913e-05
+Finish epoch: 167
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.55it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4639 (5.4016)
+  loss_ce: 0.6111 (0.6297)
+  loss_bbox: 1.4753 (1.4288)
+  loss_giou: 3.3690 (3.3432)
+  loss_ce_unscaled: 0.6111 (0.6297)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2951 (0.2858)
+  loss_giou_unscaled: 1.6845 (1.6716)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.001445956011317665
+Finish epoch: 168
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.66it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3839 (5.3449)
+  loss_ce: 0.6133 (0.6345)
+  loss_bbox: 1.3985 (1.3805)
+  loss_giou: 3.3453 (3.3299)
+  loss_ce_unscaled: 0.6133 (0.6345)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2797 (0.2761)
+  loss_giou_unscaled: 1.6726 (1.6649)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 2.462932860450224e-05
+Finish epoch: 169
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4422 (5.3820)
+  loss_ce: 0.6070 (0.6284)
+  loss_bbox: 1.4931 (1.4250)
+  loss_giou: 3.3373 (3.3286)
+  loss_ce_unscaled: 0.6070 (0.6284)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2986 (0.2850)
+  loss_giou_unscaled: 1.6687 (1.6643)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0008487487246279853
+Finish epoch: 170
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4471 (5.3876)
+  loss_ce: 0.6111 (0.6300)
+  loss_bbox: 1.4981 (1.4225)
+  loss_giou: 3.3453 (3.3351)
+  loss_ce_unscaled: 0.6111 (0.6300)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2996 (0.2845)
+  loss_giou_unscaled: 1.6727 (1.6676)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0030814695345854344
+Finish epoch: 171
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4474 (5.3902)
+  loss_ce: 0.6130 (0.6329)
+  loss_bbox: 1.4131 (1.4065)
+  loss_giou: 3.3683 (3.3508)
+  loss_ce_unscaled: 0.6130 (0.6329)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2826 (0.2813)
+  loss_giou_unscaled: 1.6841 (1.6754)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 172
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.43it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3393 (5.2826)
+  loss_ce: 0.6109 (0.6304)
+  loss_bbox: 1.3800 (1.3564)
+  loss_giou: 3.3037 (3.2958)
+  loss_ce_unscaled: 0.6109 (0.6304)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2760 (0.2713)
+  loss_giou_unscaled: 1.6519 (1.6479)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 3.2893654813986384e-05
+Finish epoch: 173
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.39it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3643 (5.3336)
+  loss_ce: 0.6125 (0.6306)
+  loss_bbox: 1.3863 (1.3746)
+  loss_giou: 3.3436 (3.3284)
+  loss_ce_unscaled: 0.6125 (0.6306)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2773 (0.2749)
+  loss_giou_unscaled: 1.6718 (1.6642)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 4.209209401575708e-05
+Finish epoch: 174
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4640 (5.3898)
+  loss_ce: 0.6103 (0.6305)
+  loss_bbox: 1.4346 (1.4132)
+  loss_giou: 3.3598 (3.3461)
+  loss_ce_unscaled: 0.6103 (0.6305)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2869 (0.2826)
+  loss_giou_unscaled: 1.6799 (1.6730)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 6.606373234169455e-05
+Finish epoch: 175
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.44it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3735 (5.3824)
+  loss_ce: 0.6130 (0.6334)
+  loss_bbox: 1.4097 (1.4001)
+  loss_giou: 3.3647 (3.3489)
+  loss_ce_unscaled: 0.6130 (0.6334)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2819 (0.2800)
+  loss_giou_unscaled: 1.6823 (1.6744)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 9.802960494069208e-05
+Finish epoch: 176
+100%|██████████| 57/57 [00:48<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.39it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4055 (5.3943)
+  loss_ce: 0.6123 (0.6328)
+  loss_bbox: 1.4181 (1.4059)
+  loss_giou: 3.3694 (3.3555)
+  loss_ce_unscaled: 0.6123 (0.6328)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2836 (0.2812)
+  loss_giou_unscaled: 1.6847 (1.6778)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 5.475201898069991e-05
+Finish epoch: 177
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3496 (5.3258)
+  loss_ce: 0.6124 (0.6303)
+  loss_bbox: 1.4157 (1.3785)
+  loss_giou: 3.3333 (3.3171)
+  loss_ce_unscaled: 0.6124 (0.6303)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2831 (0.2757)
+  loss_giou_unscaled: 1.6666 (1.6585)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 3.2893654813986384e-05
+Finish epoch: 178
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.41it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4167 (5.3921)
+  loss_ce: 0.6136 (0.6321)
+  loss_bbox: 1.4013 (1.4077)
+  loss_giou: 3.3799 (3.3524)
+  loss_ce_unscaled: 0.6136 (0.6321)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2803 (0.2815)
+  loss_giou_unscaled: 1.6899 (1.6762)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 9.25754888921728e-05
+Finish epoch: 179
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4284 (5.3652)
+  loss_ce: 0.6096 (0.6288)
+  loss_bbox: 1.4194 (1.3981)
+  loss_giou: 3.3578 (3.3382)
+  loss_ce_unscaled: 0.6096 (0.6288)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2839 (0.2796)
+  loss_giou_unscaled: 1.6789 (1.6691)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 3.4740316136876845e-05
+Finish epoch: 180
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.48it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4758 (5.4139)
+  loss_ce: 0.6108 (0.6293)
+  loss_bbox: 1.4914 (1.4373)
+  loss_giou: 3.3636 (3.3473)
+  loss_ce_unscaled: 0.6108 (0.6293)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2983 (0.2875)
+  loss_giou_unscaled: 1.6818 (1.6736)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.002876337172277683
+Finish epoch: 181
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.39it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3465 (5.3592)
+  loss_ce: 0.6132 (0.6333)
+  loss_bbox: 1.3914 (1.3890)
+  loss_giou: 3.3456 (3.3369)
+  loss_ce_unscaled: 0.6132 (0.6333)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2783 (0.2778)
+  loss_giou_unscaled: 1.6728 (1.6684)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00011557936582520005
+Finish epoch: 182
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.48it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4743 (5.4113)
+  loss_ce: 0.6107 (0.6302)
+  loss_bbox: 1.4217 (1.4170)
+  loss_giou: 3.3878 (3.3641)
+  loss_ce_unscaled: 0.6107 (0.6302)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2843 (0.2834)
+  loss_giou_unscaled: 1.6939 (1.6821)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00016345481790046052
+Finish epoch: 183
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.49it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3163 (5.3254)
+  loss_ce: 0.6135 (0.6324)
+  loss_bbox: 1.4024 (1.3685)
+  loss_giou: 3.3219 (3.3244)
+  loss_ce_unscaled: 0.6135 (0.6324)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2805 (0.2737)
+  loss_giou_unscaled: 1.6610 (1.6622)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.00016829268191127957
+Finish epoch: 184
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.45it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3870 (5.3560)
+  loss_ce: 0.6076 (0.6297)
+  loss_bbox: 1.4339 (1.3909)
+  loss_giou: 3.3227 (3.3354)
+  loss_ce_unscaled: 0.6076 (0.6297)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2868 (0.2782)
+  loss_giou_unscaled: 1.6614 (1.6677)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 185
+100%|██████████| 57/57 [00:48<00:00,  1.18it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.53it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3983 (5.3798)
+  loss_ce: 0.6098 (0.6326)
+  loss_bbox: 1.4055 (1.3985)
+  loss_giou: 3.3658 (3.3486)
+  loss_ce_unscaled: 0.6098 (0.6326)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2811 (0.2797)
+  loss_giou_unscaled: 1.6829 (1.6743)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 186
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:08<00:00,  2.90it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3270 (5.3009)
+  loss_ce: 0.6076 (0.6295)
+  loss_bbox: 1.3898 (1.3619)
+  loss_giou: 3.3171 (3.3096)
+  loss_ce_unscaled: 0.6076 (0.6295)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2780 (0.2724)
+  loss_giou_unscaled: 1.6585 (1.6548)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 9.953550815948324e-05
+Finish epoch: 187
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.59it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4755 (5.4324)
+  loss_ce: 0.6095 (0.6313)
+  loss_bbox: 1.4249 (1.4289)
+  loss_giou: 3.3883 (3.3721)
+  loss_ce_unscaled: 0.6095 (0.6313)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2850 (0.2858)
+  loss_giou_unscaled: 1.6942 (1.6861)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0001176355259288305
+Finish epoch: 188
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.60it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4165 (5.3964)
+  loss_ce: 0.6102 (0.6294)
+  loss_bbox: 1.4033 (1.4072)
+  loss_giou: 3.3567 (3.3599)
+  loss_ce_unscaled: 0.6102 (0.6294)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2807 (0.2814)
+  loss_giou_unscaled: 1.6784 (1.6799)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 189
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.67it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3303 (5.3647)
+  loss_ce: 0.6150 (0.6339)
+  loss_bbox: 1.3957 (1.4080)
+  loss_giou: 3.3196 (3.3228)
+  loss_ce_unscaled: 0.6150 (0.6339)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2791 (0.2816)
+  loss_giou_unscaled: 1.6598 (1.6614)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 4.003680529202746e-05
+Finish epoch: 190
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.47it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.5590 (5.4885)
+  loss_ce: 0.6118 (0.6305)
+  loss_bbox: 1.4560 (1.4612)
+  loss_giou: 3.4230 (3.3967)
+  loss_ce_unscaled: 0.6118 (0.6305)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2912 (0.2922)
+  loss_giou_unscaled: 1.7115 (1.6984)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 7.373077733305245e-05
+Finish epoch: 191
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.37it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.5734 (5.5485)
+  loss_ce: 0.6111 (0.6320)
+  loss_bbox: 1.5253 (1.4943)
+  loss_giou: 3.4350 (3.4222)
+  loss_ce_unscaled: 0.6111 (0.6320)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.3051 (0.2989)
+  loss_giou_unscaled: 1.7175 (1.7111)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 1.4796000147960002e-05
+Finish epoch: 192
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.64it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3259 (5.3306)
+  loss_ce: 0.6088 (0.6290)
+  loss_bbox: 1.3903 (1.3797)
+  loss_giou: 3.3218 (3.3218)
+  loss_ce_unscaled: 0.6088 (0.6290)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2781 (0.2759)
+  loss_giou_unscaled: 1.6609 (1.6609)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0002988546114244981
+Finish epoch: 193
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.53it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4951 (5.4309)
+  loss_ce: 0.6072 (0.6278)
+  loss_bbox: 1.5052 (1.4505)
+  loss_giou: 3.3540 (3.3527)
+  loss_ce_unscaled: 0.6072 (0.6278)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.3010 (0.2901)
+  loss_giou_unscaled: 1.6770 (1.6763)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.002765271205854617
+Finish epoch: 194
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3986 (5.3786)
+  loss_ce: 0.6120 (0.6311)
+  loss_bbox: 1.4056 (1.4004)
+  loss_giou: 3.3485 (3.3471)
+  loss_ce_unscaled: 0.6120 (0.6311)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2811 (0.2801)
+  loss_giou_unscaled: 1.6742 (1.6735)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 2.3714946344933895e-05
+Finish epoch: 195
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.42it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3982 (5.3382)
+  loss_ce: 0.6051 (0.6282)
+  loss_bbox: 1.4256 (1.3987)
+  loss_giou: 3.3020 (3.3114)
+  loss_ce_unscaled: 0.6051 (0.6282)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2851 (0.2797)
+  loss_giou_unscaled: 1.6510 (1.6557)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0001308636568194588
+Finish epoch: 196
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.49it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.4835 (5.4208)
+  loss_ce: 0.6065 (0.6290)
+  loss_bbox: 1.4880 (1.4408)
+  loss_giou: 3.3548 (3.3510)
+  loss_ce_unscaled: 0.6065 (0.6290)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2976 (0.2882)
+  loss_giou_unscaled: 1.6774 (1.6755)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0003792578462480598
+Finish epoch: 197
+100%|██████████| 57/57 [00:47<00:00,  1.19it/s]
+100%|██████████| 25/25 [00:10<00:00,  2.38it/s]
+Averaged stats:
+ class_error: 86.36
+  loss: 5.3425 (5.3836)
+  loss_ce: 0.6145 (0.6339)
+  loss_bbox: 1.4150 (1.4173)
+  loss_giou: 3.3379 (3.3325)
+  loss_ce_unscaled: 0.6145 (0.6339)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2830 (0.2835)
+  loss_giou_unscaled: 1.6689 (1.6662)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 2.214986599331074e-05
+Finish epoch: 198
+100%|██████████| 57/57 [00:47<00:00,  1.20it/s]
+100%|██████████| 25/25 [00:09<00:00,  2.75it/s]Averaged stats:
+ class_error: 86.36
+  loss: 5.4025 (5.3807)
+  loss_ce: 0.6107 (0.6312)
+  loss_bbox: 1.4098 (1.3969)
+  loss_giou: 3.3514 (3.3526)
+  loss_ce_unscaled: 0.6107 (0.6312)
+  class_error_unscaled: 72.9730 (73.5715)
+  loss_bbox_unscaled: 0.2820 (0.2794)
+  loss_giou_unscaled: 1.6757 (1.6763)
+  cardinality_error_unscaled: 3.1875 (3.1729)
+
+Mean average precision: 0.0
+Finish epoch: 199
